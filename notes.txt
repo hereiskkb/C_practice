@@ -1,0 +1,19 @@
+Deposing of null pointers is a feature of C.
+null pointers are evaluated to false in logical operations.
+
+Structures
+combine fields with different types. 
+Use keyword struct
+helps you give names to members:
+
+FILE* filePointer;
+int bufferLength = 255;
+char buffer[bufferLength];
+
+filePointer = fopen("file.txt", "r");
+
+while(fgets(buffer, bufferLength, filePointer)) {
+    printf("%s\n", buffer);
+}
+
+fclose(filePointer);
