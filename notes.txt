@@ -17,3 +17,48 @@ while(fgets(buffer, bufferLength, filePointer)) {
 }
 
 fclose(filePointer);
+
+Need to check power consumption
+
+powerCon = gammaR * epsilionR
+
+gammaR = (common bits of columns);
+epsilionR = (complement);
+
+You have your input
+
+figure out the length of the string
+
+You don't have to make it generic
+Just make the counter generic
+
+zeroCounter [ | | | | | ]
+oneCounter  [ | | | | | ]
+
+located using a similar process that involves filtering out values until only one 
+remains.
+
+from the list
+    consider just the first bit
+
+
+
+Need to store zero numbers somwhere
+Need to store one numbers somewhere
+
+for(i = 1; i < 12; ++) {
+    while()
+        store zero nums in zeroArray
+        store one nums in oneArray
+
+    if(zeroCount > oneCount) {
+        use zeroArray to work
+
+    } else {
+        use oneArray to work
+    }
+}
+
+3b : o2 = 3573
+     co2 = 1423
+     5084379
