@@ -60,5 +60,23 @@ for(i = 1; i < 12; ++) {
 }
 
 3b : o2 = 3573
-     co2 = 1423
+     co2 = 289
      5084379
+
+read first line and store into array as number
+start next line
+loop until EOF 
+    store into matrices with type number
+
+[5][5] = {
+    {},
+    {},
+    {},
+    {}
+}
+
+mark read as -1
+store each callout in an array 
+
+How to make dijkstra work with negative?
+What is disadvantage of using dijkstra work?
