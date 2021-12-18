@@ -21,7 +21,6 @@ size_t get_y_value(char *point) {
 
 void update_point_list(point_t ***point_list, size_t **point_list_size, size_t x, size_t y) {
 	size_t point_exists = 0;
-	printf("Starting count\n");
 	for(size_t i = 0; i < **point_list_size; i++) {
 		if(((**point_list)[i].x == x) && ((**point_list)[i].y == y)) {
 			point_exists = 1;
@@ -51,17 +50,24 @@ size_t get_overlap_count(point_t *point_list, size_t point_list_size) {
 }
 
 void analyze_point(char *line, point_t **point_list, size_t *point_list_size) {
-	char *point = NULL;
-	printf("Starting analysis\n");
+	char *point1 = NULL;
+	char *point2 = NULL;
+	char *point1_copy = NULL;
+	char *point2_copy = NULL;
 	size_t x1, y1, x2, y2;
-	point = strtok(line, " -> ");
-	x1 = get_x_value(point);
-	y1 = get_y_value(point);
 
-	point = strtok(NULL, " -> ");
-	x2 = get_x_value(point);
-	y2 = get_y_value(point);
-
+	point1 = strtok(line, " -> ");
+	point1_copy = (char *) malloc(15 * sizeof(char));
+	strcpy(point1_copy, point1);
+	point2 = strtok(NULL, " -> ");
+	point2_copy = (char *) malloc(15 * sizeof(char));
+	strcpy(point2_copy, point2);
+	
+	x1 = get_x_value(point1);
+	y1 = get_y_value(point1_copy);
+	x2 = get_x_value(point2);
+	y2 = get_y_value(point2_copy);
+	
 	if(x1 == x2) {
 		if(y1 > y2) {
 			while((y1 - y2) >= 0) {
@@ -69,7 +75,7 @@ void analyze_point(char *line, point_t **point_list, size_t *point_list_size) {
 				update_point_list(&point_list, &point_list_size, x1, y1--);
 			}
 		} else {
-			while((y2 - y1) >= 0) {\
+			while((y2 - y1) >= 0) {
 				printf("Starting analysis 2\n");
 				update_point_list(&point_list, &point_list_size, x1, y2--);
 			}
@@ -87,6 +93,9 @@ void analyze_point(char *line, point_t **point_list, size_t *point_list_size) {
 			}
 		}
 	} else {}
+
+	free(point1_copy);
+	free(point2_copy);
 } 
 
 int main(int argc, char const *argv[]) {

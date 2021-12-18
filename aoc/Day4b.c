@@ -56,20 +56,29 @@ size_t solve_board(size_t *call_out_array, size_t size_of_callout, board_t *boar
 	size_t current_call;
 	board_t current_board;
 	size_t unmarked_sum = 0;
+	size_t *board_status_array = (size_t *) calloc(board_counter, sizeof(size_t));
+	size_t finished_board_count = board_counter;
 
 	for(size_t i = 0; i < size_of_callout; i++) {
 		current_call = call_out_array[i];
 		printf("Current call: %zu\n", current_call);	
 		for(size_t j = 0; j < board_counter; j++) {
-			for(size_t k = 0; k < 5; k++) {
-				for(size_t l = 0; l < 5; l++) {
-					if((boards[j].board_array[k][l]) == current_call) {
-						boards[j].board_array[k][l] = -1;
-						printf("Current board : %zu\n", j);
-						print_board(boards[j]);
-						if(board_complete(boards[j], k, l)) {
-							current_board = boards[j];
-							goto compute_result;
+			if(board_status_array[j] != 1) {
+				for(size_t k = 0; k < 5; k++) {
+					for(size_t l = 0; l < 5; l++) {
+						if((boards[j].board_array[k][l]) == current_call) {
+							boards[j].board_array[k][l] = -1;
+							printf("Current board : %zu\n", j);
+							print_board(boards[j]);
+							if(board_complete(boards[j], k, l)) {
+								board_status_array[j] = 1;
+								finished_board_count--;
+							}
+
+							if(finished_board_count == 0) {
+								current_board = boards[j];
+								goto compute_result;
+							}
 						}
 					}
 				}
@@ -128,6 +137,7 @@ int main(int argc, char const *argv[]) {
 	size_t *call_out_array = NULL;
 	size_t size_of_callout = 0;
 	size_t result;
+	size_t *board_status_array = NULL;
 
 	fp = fopen("input_day4.txt", "r");
 
@@ -148,7 +158,6 @@ int main(int argc, char const *argv[]) {
 	}
 
 	callout_array_intializer(call_out_string, &call_out_array, &size_of_callout);
-
 
 	// print_board(boards[0]);
 	result = solve_board(call_out_array, size_of_callout, boards, board_counter);
