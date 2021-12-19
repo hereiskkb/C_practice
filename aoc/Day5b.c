@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <math.h>
 
 typedef struct point {
 	long x;
@@ -71,28 +72,43 @@ void analyze_point(char *line, point_t **point_list, size_t *point_list_size) {
 	if(x1 == x2) {
 		if(y1 > y2) {
 			while(y1 >= y2) {
-				printf("Starting analysis 1\n");
 				update_point_list(&point_list, &point_list_size, x1, y1--);
 			}
 		} else {
 			while(y2 >= y1) {
-				printf("Starting analysis 2\n");
 				update_point_list(&point_list, &point_list_size, x1, y2--);
 			}
 		}
 	} else if(y1 == y2) {
 		if(x1 > x2) {
 			while(x1 >= x2) {
-				printf("Starting analysis 3\n");
 				update_point_list(&point_list, &point_list_size, x1--, y1);
 			}
 		} else {
 			while(x2 >= x1) {
-				printf("Starting analysis 4\n");
 				update_point_list(&point_list, &point_list_size, x2--, y1);
 			}
 		}
-	} else {}
+	} else if(abs(x1 - x2) == abs(y1 - y2)){
+		if((x1 > x2) && (y1 > y2)) {
+			while(x1 >= x2) {
+				update_point_list(&point_list, &point_list_size, x1--, y1--);	
+			}
+		} else if((x2 > x1) && (y2 > y1)) {
+			while(x2 >= x1) {
+				update_point_list(&point_list, &point_list_size, x2--, y2--);		
+			}
+		} else if((x1 > x2) && (y2 > y1)) {
+			while(x1 >= x2) {
+				update_point_list(&point_list, &point_list_size, x1--, y1++);		
+			}
+		} else if((x2 > x1) && (y1 > y2)) {
+			while(x2 >= x1) {
+				update_point_list(&point_list, &point_list_size, x2--, y2++);		
+			}
+		}
+
+	}
 
 	free(point1_copy);
 	free(point2_copy);
