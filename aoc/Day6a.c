@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define DAYS 80
+#define DAYS 256
 #define PERIOD 7
 #define BRANCH_START 8
 
