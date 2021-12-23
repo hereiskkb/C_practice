@@ -23,21 +23,21 @@ size_t branch_size_finder(int days_left, size_t start) {
 
 
 size_t find_lanternfish_count(char *line) {
-	size_t existance_indexes[10] = {0};
+	size_t existance_indices[10] = {0};
 
 	char *input = strtok(line, ",");
 	while(input != NULL) {
 		printf("input : %s\n", input);
-		existance_indexes[strtoul(input, NULL, 10)]++;
+		existance_indices[strtoul(input, NULL, 10)]++;
 		input = strtok(NULL, ",");
 	}
 
 	size_t result = 0;
 
 	for(size_t i = 0; i < 10; i++) {
-		if(existance_indexes[i]) {
-			printf("Computing result for index : %zu\n", i);
-			size_t index_result =  (existance_indexes[i] * branch_size_finder(DAYS, i));
+		if(existance_indices[i]) {
+			printf("Computing result for index [%zu] which occurs [%zu] times\n", i, existance_indices[i]);
+			size_t index_result =  (existance_indices[i] * branch_size_finder((DAYS + 1), i));
 			printf("Number of lanternfish for index %zu : %zu\n", i, index_result);
 			result = result + index_result;
 		}

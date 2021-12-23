@@ -25,8 +25,9 @@ int main(int argc, char const *argv[]) {
 		return EXIT_FAILURE;
 	}
 	int value = strtol(argv[1], NULL, 10);
+	int days = strtol(argv[2], NULL, 10);
 
-	printf("Find number of branches for %d : %zu\n", value, branch_size_finder(20, value, 7));
+	printf("Find number of branches for %d : %zu\n", value, branch_size_finder(days, value, 7));
 
 	return 0;
 }
