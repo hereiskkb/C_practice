@@ -1,11 +1,3 @@
-Deposing of null pointers is a feature of C.
-null pointers are evaluated to false in logical operations.
-
-Structures
-combine fields with different types. 
-Use keyword struct
-helps you give names to members:
-
 FILE* filePointer;
 int bufferLength = 255;
 char buffer[bufferLength];
@@ -78,5 +70,8 @@ loop until EOF
 mark read as -1
 store each callout in an array 
 
-How to make dijkstra work with negative?
-What is disadvantage of using dijkstra work?
+Day 6:
+1. formula for each given node and how many nodes it will spawn -> 
+
+26984457539
+24654746147
