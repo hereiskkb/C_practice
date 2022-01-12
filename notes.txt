@@ -75,3 +75,7 @@ Day 6:
 
 26984457539
 24654746147
+
+How to make dijkstra work with negative?
+What is disadvantage of using dijkstra work?
+
