@@ -39,11 +39,27 @@ int main(int argc, char const *argv[]) {
 
 	if((read = getline(&line, &len, fp)) != -1) {
 		get_numbers(line, &number_list, &number_list_size);
-
 	}
+
+	size_t record = UINT_MAX;
+
+	for(size_t i = 0; i < 1000; i++) {
+		size_t sum = 0;
+		for(size_t j = 0; j < number_list_size; j++) {
+			size_t progression_limit = abs(i - number_list[j]);
+			size_t limit_sum = (progression_limit * (progression_limit + 1)) / 2;  
+			sum += limit_sum;
+		}
+
+		if(sum < record) {
+			record = sum;
+		}
+	}
+
+	printf("Record : %zu\n", record);
+	
 
 	fclose(fp);
 	free(number_list);
-	free(mode_list);
 	return EXIT_SUCCESS;
 }

@@ -79,3 +79,5 @@ Day 6:
 How to make dijkstra work with negative?
 What is disadvantage of using dijkstra work?
 
+be cfbegad cbdgef fgaecd cgeb fdcge agebfd fecdb fabcd edb
+
