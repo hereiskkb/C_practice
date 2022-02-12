@@ -2,14 +2,27 @@
 #include <stdlib.h>
 #include <string.h>
 
-size_t get_numbers(char *line) {
-	char *source = strtok(line, "|");
-	char *target = strtok(NULL, "|");
+void createKeyAndTarget(char *line) {
+	char *key = strtok(line, "|");
+	char *target = strtok(NULL, "");
 
-	char *number_div[10] = (char **) malloc(10, sizeof(char *));
+	printf("Key : %s\n", key);
+	target[strlen(target) - 1] = '\0';
+	printf("Target : %s\n", target);
 
-	
+	char *keyParts = strtok(key, " ");
+	while(keyParts) {
+		printf("%s : %zu\n", keyParts, strlen(keyParts));
+		keyParts = strtok(NULL, " ");
+	}
 
+	char *targetParts = strtok(target, " ");
+	while(targetParts) {
+		printf("%s : %zu\n", targetParts, strlen(targetParts));
+		targetParts = strtok(NULL, " ");
+	}
+
+	//TODO : write logic of getting the letters
 }
 
 int main(int argc, char const *argv[]) {
@@ -19,14 +32,11 @@ int main(int argc, char const *argv[]) {
 	size_t len = 0;
 	size_t read;
 
-	size_t sum = 0;
-
 	fp = fopen("input_day8.txt", "r");
 	while((read = getline(&line, &len, fp)) != -1) {
-		sum += get_numbers(line);
+		createKeyAndTarget(line);
 	}
 
-	printf("Count : %zu\n", count);
 
 	fclose(fp);
 	return 0;
