@@ -23,6 +23,8 @@ void createKeyAndTarget(char *line) {
 	}
 
 	//TODO : write logic of getting the letters
+	
+	
 }
 
 int main(int argc, char const *argv[]) {
