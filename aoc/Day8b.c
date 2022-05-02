@@ -2,29 +2,21 @@
 #include <stdlib.h>
 #include <string.h>
 
+void sanitizeTarget(char *target) {
+	target[strlen(target) - 1] = '\0';
+	for(size_t i = 0; i < strlen(target); i++) {
+		target[i] = target[i + 1];
+	}
+}
+
 void createKeyAndTarget(char *line) {
 	char *key = strtok(line, "|");
 	char *target = strtok(NULL, "");
 
 	printf("Key : %s\n", key);
-	target[strlen(target) - 1] = '\0';
+	sanitizeTarget(target);	
 	printf("Target : %s\n", target);
-
-	char *keyParts = strtok(key, " ");
-	while(keyParts) {
-		printf("%s : %zu\n", keyParts, strlen(keyParts));
-		keyParts = strtok(NULL, " ");
-	}
-
-	char *targetParts = strtok(target, " ");
-	while(targetParts) {
-		printf("%s : %zu\n", targetParts, strlen(targetParts));
-		targetParts = strtok(NULL, " ");
-	}
-
 	//TODO : write logic of getting the letters
-	
-	
 }
 
 int main(int argc, char const *argv[]) {
