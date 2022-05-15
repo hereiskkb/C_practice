@@ -78,5 +78,40 @@ loop until EOF
 mark read as -1
 store each callout in an array 
 
+Day 6:
+1. formula for each given node and how many nodes it will spawn -> 
+
+26984457539
+24654746147
+
 How to make dijkstra work with negative?
 What is disadvantage of using dijkstra work?
+
+be cfbegad cbdgef fgaecd cgeb fdcge agebfd fecdb fabcd edb
+
+d -> top -> a
+b -> c
+e -> f
+g -> b
+c -> d
+a -> e
+f -> g
+
+be -> 1
+edb -> 7
+fgaecd -> 6
+fecdb -> 3
+cgeb -> 4
+fdcge -> 5
+
+Request Type -> GET/POST
+MHD_NO
+Queueing a response -> 
+
+content of the message body will not be received if a response is queued in the first iteration
+    -> response body will not be received
+    -> connection will be closed right after the response has been transferred then
+
+void** con_cls -> 
+
+to differentiate the first call from the rest -> check if con_cls was NULL and set it to non-NULL during 1st call.

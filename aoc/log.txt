@@ -1,0 +1,3200 @@
+Key : fgcae ebafc cabdef eg abecfg abgfed feg gafdc bceg ebgcadf 
+Target :  defagbc faecg cfdag gecb
+fgcae : 5
+ebafc : 5
+cabdef : 6
+eg : 2
+abecfg : 6
+abgfed : 6
+feg : 3
+gafdc : 5
+bceg : 4
+ebgcadf : 7
+defagbc : 7
+faecg : 5
+cfdag : 5
+gecb : 4
+Key : eagd cad fgadbc aefdcg dcebfg fcegd cbeaf ad dbgfeca defca 
+Target :  cfdeg gdcabf fcgde afgced
+eagd : 4
+cad : 3
+fgadbc : 6
+aefdcg : 6
+dcebfg : 6
+fcegd : 5
+cbeaf : 5
+ad : 2
+dbgfeca : 7
+defca : 5
+cfdeg : 5
+gdcabf : 6
+fcgde : 5
+afgced : 6
+Key : gfdeca aeb eb fbdag eafdc adfbe cefdab bdaegcf efbc ecadgb 
+Target :  eb dbafe eab faecd
+gfdeca : 6
+aeb : 3
+eb : 2
+fbdag : 5
+eafdc : 5
+adfbe : 5
+cefdab : 6
+bdaegcf : 7
+efbc : 4
+ecadgb : 6
+eb : 2
+dbafe : 5
+eab : 3
+faecd : 5
+Key : facbdge efdg gcafd daegc caegb aecfdb ade ed gafbdc dgfeac 
+Target :  de abcdef faedcg dfgca
+facbdge : 7
+efdg : 4
+gcafd : 5
+daegc : 5
+caegb : 5
+aecfdb : 6
+ade : 3
+ed : 2
+gafbdc : 6
+dgfeac : 6
+de : 2
+abcdef : 6
+faedcg : 6
+dfgca : 5
+Key : dcaegbf bc dcgeab cbgad cebg cdfaeb fbadg acdge cefdga cdb 
+Target :  gdcfae gbec gdace cgadfe
+dcaegbf : 7
+bc : 2
+dcgeab : 6
+cbgad : 5
+cebg : 4
+cdfaeb : 6
+fbadg : 5
+acdge : 5
+cefdga : 6
+cdb : 3
+gdcfae : 6
+gbec : 4
+gdace : 5
+cgadfe : 6
+Key : ceagfbd fbaeg fadge fbegad abgecf dafcg ed edab ged dfcbeg 
+Target :  gebfa de gbafec ed
+ceagfbd : 7
+fbaeg : 5
+fadge : 5
+fbegad : 6
+abgecf : 6
+dafcg : 5
+ed : 2
+edab : 4
+ged : 3
+dfcbeg : 6
+gebfa : 5
+de : 2
+gbafec : 6
+ed : 2
+Key : acedbf adfbg cgafedb geac cgb befcgd bcgaf bfgace cg bfeac 
+Target :  bcdfeg fecba cafgeb bgdfa
+acedbf : 6
+adfbg : 5
+cgafedb : 7
+geac : 4
+cgb : 3
+befcgd : 6
+bcgaf : 5
+bfgace : 6
+cg : 2
+bfeac : 5
+bcdfeg : 6
+fecba : 5
+cafgeb : 6
+bgdfa : 5
+Key : egadc cea ac agbcedf cgab bgcade fbcaed eadfbg fegdc ebdag 
+Target :  fdecabg fcged cdbage efgdab
+egadc : 5
+cea : 3
+ac : 2
+agbcedf : 7
+cgab : 4
+bgcade : 6
+fbcaed : 6
+eadfbg : 6
+fegdc : 5
+ebdag : 5
+fdecabg : 7
+fcged : 5
+cdbage : 6
+efgdab : 6
+Key : cbfge gdc cdea efdag dc cdfeg gfbcad gcdeaf cdeagbf egfadb 
+Target :  dfcge egcfd fcdbag dc
+cbfge : 5
+gdc : 3
+cdea : 4
+efdag : 5
+dc : 2
+cdfeg : 5
+gfbcad : 6
+gcdeaf : 6
+cdeagbf : 7
+egfadb : 6
+dfcge : 5
+egcfd : 5
+fcdbag : 6
+dc : 2
+Key : gaedb fbced gcdbef cge gc decgb dcbgfea cgfb cgdfea fbcade 
+Target :  fdegbac fecbd ecg degba
+gaedb : 5
+fbced : 5
+gcdbef : 6
+cge : 3
+gc : 2
+decgb : 5
+dcbgfea : 7
+cgfb : 4
+cgdfea : 6
+fbcade : 6
+fdegbac : 7
+fecbd : 5
+ecg : 3
+degba : 5
+Key : geaf bcfedg agbcd bfeagd dgfbe cbdaef beacdfg abe agebd ea 
+Target :  fbecdg geaf gebfad adgbc
+geaf : 4
+bcfedg : 6
+agbcd : 5
+bfeagd : 6
+dgfbe : 5
+cbdaef : 6
+beacdfg : 7
+abe : 3
+agebd : 5
+ea : 2
+fbecdg : 6
+geaf : 4
+gebfad : 6
+adgbc : 5
+Key : bed afgebd adecf bafgedc dbca cfegb becdf fabdce bd gcfdea 
+Target :  gfdaeb ebfgad dbefc cbda
+bed : 3
+afgebd : 6
+adecf : 5
+bafgedc : 7
+dbca : 4
+cfegb : 5
+becdf : 5
+fabdce : 6
+bd : 2
+gcfdea : 6
+gfdaeb : 6
+ebfgad : 6
+dbefc : 5
+cbda : 4
+Key : gacfebd ag bedfca agbfde egfcab dfga degab fbade bag bdecg 
+Target :  dgaf abcfed agb bfecag
+gacfebd : 7
+ag : 2
+bedfca : 6
+agbfde : 6
+egfcab : 6
+dfga : 4
+degab : 5
+fbade : 5
+bag : 3
+bdecg : 5
+dgaf : 4
+abcfed : 6
+agb : 3
+bfecag : 6
+Key : afebg afdeg gcbe acebdf cfbage cafeb gab decgabf bg gcfdba 
+Target :  gb caebf abgef acfebd
+afebg : 5
+afdeg : 5
+gcbe : 4
+acebdf : 6
+cfbage : 6
+cafeb : 5
+gab : 3
+decgabf : 7
+bg : 2
+gcfdba : 6
+gb : 2
+caebf : 5
+abgef : 5
+acfebd : 6
+Key : efdab fabdgce gcbfa eg gacbfe beg ecag beafg dfabcg bgecfd 
+Target :  bge fgdcbe gcfdba ebdaf
+efdab : 5
+fabdgce : 7
+gcbfa : 5
+eg : 2
+gacbfe : 6
+beg : 3
+ecag : 4
+beafg : 5
+dfabcg : 6
+bgecfd : 6
+bge : 3
+fgdcbe : 6
+gcfdba : 6
+ebdaf : 5
+Key : aecbd bdagef gd bfega aefgcbd gfde gfdcab dbg edgba febagc 
+Target :  dg dagfbc dgfe eabdgf
+aecbd : 5
+bdagef : 6
+gd : 2
+bfega : 5
+aefgcbd : 7
+gfde : 4
+gfdcab : 6
+dbg : 3
+edgba : 5
+febagc : 6
+dg : 2
+dagfbc : 6
+dgfe : 4
+eabdgf : 6
+Key : gdfba egfacbd gdcefa baf gcba fdagcb dgfac ab dcfeba ebgdf 
+Target :  dcfag bfa gafcd cbag
+gdfba : 5
+egfacbd : 7
+gdcefa : 6
+baf : 3
+gcba : 4
+fdagcb : 6
+dgfac : 5
+ab : 2
+dcfeba : 6
+ebgdf : 5
+dcfag : 5
+bfa : 3
+gafcd : 5
+cbag : 4
+Key : afbe bdagc cedfb defcab ebfdgac gfedbc cbfad af adgcfe adf 
+Target :  dafbc dfbac fdcegb gadcb
+afbe : 4
+bdagc : 5
+cedfb : 5
+defcab : 6
+ebfdgac : 7
+gfedbc : 6
+cbfad : 5
+af : 2
+adgcfe : 6
+adf : 3
+dafbc : 5
+dfbac : 5
+fdcegb : 6
+gadcb : 5
+Key : fcgedb ca fdcage cagdbef ceab acedfb fdbce cafdb cda afgbd 
+Target :  ac dcafb efgdac ebcfda
+fcgedb : 6
+ca : 2
+fdcage : 6
+cagdbef : 7
+ceab : 4
+acedfb : 6
+fdbce : 5
+cafdb : 5
+cda : 3
+afgbd : 5
+ac : 2
+dcafb : 5
+efgdac : 6
+ebcfda : 6
+Key : fbad gbcda dcefgb cfeadg dgbcaf bcafdeg ad gcabe adc dfbcg 
+Target :  gbcdef bcfdg cgbfd bfadgc
+fbad : 4
+gbcda : 5
+dcefgb : 6
+cfeadg : 6
+dgbcaf : 6
+bcafdeg : 7
+ad : 2
+gcabe : 5
+adc : 3
+dfbcg : 5
+gbcdef : 6
+bcfdg : 5
+cgbfd : 5
+bfadgc : 6
+Key : afcgeb bedag bdecafg agb bedfga fdagce bg bgfd dfgea cdabe 
+Target :  badge cagdfe efdag afegbd
+afcgeb : 6
+bedag : 5
+bdecafg : 7
+agb : 3
+bedfga : 6
+fdagce : 6
+bg : 2
+bgfd : 4
+dfgea : 5
+cdabe : 5
+badge : 5
+cagdfe : 6
+efdag : 5
+afegbd : 6
+Key : gfed dcaef ge bafdce daceg acebfg cefadg egc ecdabfg gacdb 
+Target :  bcgad bcegaf agecd degcafb
+gfed : 4
+dcaef : 5
+ge : 2
+bafdce : 6
+daceg : 5
+acebfg : 6
+cefadg : 6
+egc : 3
+ecdabfg : 7
+gacdb : 5
+bcgad : 5
+bcegaf : 6
+agecd : 5
+degcafb : 7
+Key : deacb adcge ab acb fbdce faedbgc fgadec gabd deabgc ecbfag 
+Target :  dfbec ab cbagfe bcfgae
+deacb : 5
+adcge : 5
+ab : 2
+acb : 3
+fbdce : 5
+faedbgc : 7
+fgadec : 6
+gabd : 4
+deabgc : 6
+ecbfag : 6
+dfbec : 5
+ab : 2
+cbagfe : 6
+bcfgae : 6
+Key : gcabfde ecf cbdeg bacgf fedg ecfgb gfedcb fcaedb cebdag fe 
+Target :  dbcegf bcgdfe gfde defg
+gcabfde : 7
+ecf : 3
+cbdeg : 5
+bacgf : 5
+fedg : 4
+ecfgb : 5
+gfedcb : 6
+fcaedb : 6
+cebdag : 6
+fe : 2
+dbcegf : 6
+bcgdfe : 6
+gfde : 4
+defg : 4
+Key : daefb bfg gedafb fabge dbafec cfega bdga cgbdfe gb gbacedf 
+Target :  aecfg bcedaf begdcf dgba
+daefb : 5
+bfg : 3
+gedafb : 6
+fabge : 5
+dbafec : 6
+cfega : 5
+bdga : 4
+cgbdfe : 6
+gb : 2
+gbacedf : 7
+aecfg : 5
+bcedaf : 6
+begdcf : 6
+dgba : 4
+Key : bagce bf bdacfeg efbg fcb cefab gbfadc cafebg ecdfa bacdge 
+Target :  fegb cegba bagce efbg
+bagce : 5
+bf : 2
+bdacfeg : 7
+efbg : 4
+fcb : 3
+cefab : 5
+gbfadc : 6
+cafebg : 6
+ecdfa : 5
+bacdge : 6
+fegb : 4
+cegba : 5
+bagce : 5
+efbg : 4
+Key : becag cfeg cefgbad fbace gfeacb acdegb bef ef adbcf fdabge 
+Target :  ef bdfac cbegad gbeac
+becag : 5
+cfeg : 4
+cefgbad : 7
+fbace : 5
+gfeacb : 6
+acdegb : 6
+bef : 3
+ef : 2
+adbcf : 5
+fdabge : 6
+ef : 2
+bdfac : 5
+cbegad : 6
+gbeac : 5
+Key : egb afcbe fbaeg eabgfdc gcab gb gfdea fgbecd bcdafe gafbec 
+Target :  fcdgeb edcgbfa gbe fgeba
+egb : 3
+afcbe : 5
+fbaeg : 5
+eabgfdc : 7
+gcab : 4
+gb : 2
+gfdea : 5
+fgbecd : 6
+bcdafe : 6
+gafbec : 6
+fcdgeb : 6
+edcgbfa : 7
+gbe : 3
+fgeba : 5
+Key : dga caebd ecdag cegfd abdfce dafbge ecbgda bcdgefa ga agbc 
+Target :  afdbec ecfdab gdaec gad
+dga : 3
+caebd : 5
+ecdag : 5
+cegfd : 5
+abdfce : 6
+dafbge : 6
+ecbgda : 6
+bcdgefa : 7
+ga : 2
+agbc : 4
+afdbec : 6
+ecfdab : 6
+gdaec : 5
+gad : 3
+Key : fc gbdefc cfe ebdaf fcbeda gbafde edacg bfcdgae dacef cabf 
+Target :  decgfba cdbefg cf ecdabf
+fc : 2
+gbdefc : 6
+cfe : 3
+ebdaf : 5
+fcbeda : 6
+gbafde : 6
+edacg : 5
+bfcdgae : 7
+dacef : 5
+cabf : 4
+decgfba : 7
+cdbefg : 6
+cf : 2
+ecdabf : 6
+Key : febgd dafgbc caed cgd ceadgf fbecga dcgfe aegfc gbedfca cd 
+Target :  dgfeb fgced dcafebg agdfce
+febgd : 5
+dafgbc : 6
+caed : 4
+cgd : 3
+ceadgf : 6
+fbecga : 6
+dcgfe : 5
+aegfc : 5
+gbedfca : 7
+cd : 2
+dgfeb : 5
+fgced : 5
+dcafebg : 7
+agdfce : 6
+Key : ecdafgb bgade bgd fabd gbaef bd egadbf ceadg cfbgea dgbfec 
+Target :  edagc bdage bfda dbgae
+ecdafgb : 7
+bgade : 5
+bgd : 3
+fabd : 4
+gbaef : 5
+bd : 2
+egadbf : 6
+ceadg : 5
+cfbgea : 6
+dgbfec : 6
+edagc : 5
+bdage : 5
+bfda : 4
+dbgae : 5
+Key : cgeba aefgcd dfceagb dc ced facbed cdfb dbaec adfeb fgedba 
+Target :  fbdea bgcae efbda fcdeag
+cgeba : 5
+aefgcd : 6
+dfceagb : 7
+dc : 2
+ced : 3
+facbed : 6
+cdfb : 4
+dbaec : 5
+adfeb : 5
+fgedba : 6
+fbdea : 5
+bgcae : 5
+efbda : 5
+fcdeag : 6
+Key : caegbf dcfga afcedgb afgdcb fcedag ab edbcg dbfa gdcab abg 
+Target :  bag cbdag agb ab
+caegbf : 6
+dcfga : 5
+afcedgb : 7
+afgdcb : 6
+fcedag : 6
+ab : 2
+edbcg : 5
+dbfa : 4
+gdcab : 5
+abg : 3
+bag : 3
+cbdag : 5
+agb : 3
+ab : 2
+Key : gadfecb befc fgdbea cf fedagc fac bcgfa agbfe adgcb feagcb 
+Target :  gbcda cgbad bcgfa cf
+gadfecb : 7
+befc : 4
+fgdbea : 6
+cf : 2
+fedagc : 6
+fac : 3
+bcgfa : 5
+agbfe : 5
+adgcb : 5
+feagcb : 6
+gbcda : 5
+cgbad : 5
+bcgfa : 5
+cf : 2
+Key : dae aefcb dgabec dacfg afebdc ebfd afecgb aedcf fbcagde ed 
+Target :  ecabfgd bedf bcadef egdacfb
+dae : 3
+aefcb : 5
+dgabec : 6
+dacfg : 5
+afebdc : 6
+ebfd : 4
+afecgb : 6
+aedcf : 5
+fbcagde : 7
+ed : 2
+ecabfgd : 7
+bedf : 4
+bcadef : 6
+egdacfb : 7
+Key : abcf fcega fdgce fegbda eafdcgb ac gabecd gbfae beagfc eca 
+Target :  edbgca edbfga cae gface
+abcf : 4
+fcega : 5
+fdgce : 5
+fegbda : 6
+eafdcgb : 7
+ac : 2
+gabecd : 6
+gbfae : 5
+beagfc : 6
+eca : 3
+edbgca : 6
+edbfga : 6
+cae : 3
+gface : 5
+Key : bgedcf afcdbg ag gcbaef fcedgab afgdb cfgbd befda acdg agf 
+Target :  fdbga ceadbfg egfbac fag
+bgedcf : 6
+afcdbg : 6
+ag : 2
+gcbaef : 6
+fcedgab : 7
+afgdb : 5
+cfgbd : 5
+befda : 5
+acdg : 4
+agf : 3
+fdbga : 5
+ceadbfg : 7
+egfbac : 6
+fag : 3
+Key : bad edafc bdeg abcgde ecafgbd gfadcb bgaec db edcba geafcb 
+Target :  cdafe fdcabg cdfageb dbge
+bad : 3
+edafc : 5
+bdeg : 4
+abcgde : 6
+ecafgbd : 7
+gfadcb : 6
+bgaec : 5
+db : 2
+edcba : 5
+geafcb : 6
+cdafe : 5
+fdcabg : 6
+cdfageb : 7
+dbge : 4
+Key : geb bgcf agfcde gb befag gfbcae defab gabdec eacfg gabecfd 
+Target :  afbedgc gceabf abgef egacf
+geb : 3
+bgcf : 4
+agfcde : 6
+gb : 2
+befag : 5
+gfbcae : 6
+defab : 5
+gabdec : 6
+eacfg : 5
+gabecfd : 7
+afbedgc : 7
+gceabf : 6
+abgef : 5
+egacf : 5
+Key : fdeac acg cfegda cbeadf fegdbca ag acefg adge bfdgca gbcfe 
+Target :  gecdaf efgca cgbafd cfgeb
+fdeac : 5
+acg : 3
+cfegda : 6
+cbeadf : 6
+fegdbca : 7
+ag : 2
+acefg : 5
+adge : 4
+bfdgca : 6
+gbcfe : 5
+gecdaf : 6
+efgca : 5
+cgbafd : 6
+cfgeb : 5
+Key : begdf bdfgc ebcf adfcg cdegbf dgeafb cbg cb bfeagdc gbdcea 
+Target :  acgedb fagdbe bgfde dfgac
+begdf : 5
+bdfgc : 5
+ebcf : 4
+adfcg : 5
+cdegbf : 6
+dgeafb : 6
+cbg : 3
+cb : 2
+bfeagdc : 7
+gbdcea : 6
+acgedb : 6
+fagdbe : 6
+bgfde : 5
+dfgac : 5
+Key : afcgdb aedc bedgf egafcd afdge gecaf fcgebda gda da ceabfg 
+Target :  gedbf gacfe adg agdef
+afcgdb : 6
+aedc : 4
+bedgf : 5
+egafcd : 6
+afdge : 5
+gecaf : 5
+fcgebda : 7
+gda : 3
+da : 2
+ceabfg : 6
+gedbf : 5
+gacfe : 5
+adg : 3
+agdef : 5
+Key : bdeafg acgebdf dgcfa fa cafe dgfbc gaf edagfc cgabde agedc 
+Target :  fadbge bdgfcea dgcefa cgeda
+bdeafg : 6
+acgebdf : 7
+dgcfa : 5
+fa : 2
+cafe : 4
+dgfbc : 5
+gaf : 3
+edagfc : 6
+cgabde : 6
+agedc : 5
+fadbge : 6
+bdgfcea : 7
+dgcefa : 6
+cgeda : 5
+Key : gacfbde defag cbgef gbca efadcb afcbeg cgbdfe ba eba gefab 
+Target :  fegab abe ebfcgd fbgae
+gacfbde : 7
+defag : 5
+cbgef : 5
+gbca : 4
+efadcb : 6
+afcbeg : 6
+cgbdfe : 6
+ba : 2
+eba : 3
+gefab : 5
+fegab : 5
+abe : 3
+ebfcgd : 6
+fbgae : 5
+Key : gfbdec fbcade cabdegf ebdg bfd dcfgb cadgf gebcf db fcabge 
+Target :  eacdgfb bdge ebdg ecafdb
+gfbdec : 6
+fbcade : 6
+cabdegf : 7
+ebdg : 4
+bfd : 3
+dcfgb : 5
+cadgf : 5
+gebcf : 5
+db : 2
+fcabge : 6
+eacdgfb : 7
+bdge : 4
+ebdg : 4
+ecafdb : 6
+Key : egcfba fdcae fcdaeb gcfdae fabd ba cdeab fcdbaeg eba decbg 
+Target :  cabed facbed cbade dfcea
+egcfba : 6
+fdcae : 5
+fcdaeb : 6
+gcfdae : 6
+fabd : 4
+ba : 2
+cdeab : 5
+fcdbaeg : 7
+eba : 3
+decbg : 5
+cabed : 5
+facbed : 6
+cbade : 5
+dfcea : 5
+Key : agdfe acfdeg fcdbeg dgf gdaec df cadf ceagbfd abgfe gbdaec 
+Target :  bgcdef abfge gbefcd df
+agdfe : 5
+acfdeg : 6
+fcdbeg : 6
+dgf : 3
+gdaec : 5
+df : 2
+cadf : 4
+ceagbfd : 7
+abgfe : 5
+gbdaec : 6
+bgcdef : 6
+abfge : 5
+gbefcd : 6
+df : 2
+Key : dgebf afgdb bfa fcbade af dcafgb agcf gcbda dabgecf gadecb 
+Target :  dbcga abcdge fadgbce eagcbd
+dgebf : 5
+afgdb : 5
+bfa : 3
+fcbade : 6
+af : 2
+dcafgb : 6
+agcf : 4
+gcbda : 5
+dabgecf : 7
+gadecb : 6
+dbcga : 5
+abcdge : 6
+fadgbce : 7
+eagcbd : 6
+Key : dbcga bea egacdf dageb be efbd abgfce gadfe fcbegad aebfdg 
+Target :  eba be bdage bedga
+dbcga : 5
+bea : 3
+egacdf : 6
+dageb : 5
+be : 2
+efbd : 4
+abgfce : 6
+gadfe : 5
+fcbegad : 7
+aebfdg : 6
+eba : 3
+be : 2
+bdage : 5
+bedga : 5
+Key : gcbd egbdafc fgc fbgedc gc aedbfg cefgb fedbg cfaegd efabc 
+Target :  bface egfbc bgdacfe gc
+gcbd : 4
+egbdafc : 7
+fgc : 3
+fbgedc : 6
+gc : 2
+aedbfg : 6
+cefgb : 5
+fedbg : 5
+cfaegd : 6
+efabc : 5
+bface : 5
+egfbc : 5
+bgdacfe : 7
+gc : 2
+Key : fdgae dc ced gbcd gbcefd decfba becfg ecfabg cgfde gbcadfe 
+Target :  edbcfg cd cafgbe cdegbf
+fdgae : 5
+dc : 2
+ced : 3
+gbcd : 4
+gbcefd : 6
+decfba : 6
+becfg : 5
+ecfabg : 6
+cgfde : 5
+gbcadfe : 7
+edbcfg : 6
+cd : 2
+cafgbe : 6
+cdegbf : 6
+Key : geadcf efg gadef fg fecad acbgfe dagecbf dcgf gadbe afbdce 
+Target :  edafcg bgcfade gfdc abedg
+geadcf : 6
+efg : 3
+gadef : 5
+fg : 2
+fecad : 5
+acbgfe : 6
+dagecbf : 7
+dcgf : 4
+gadbe : 5
+afbdce : 6
+edafcg : 6
+bgcfade : 7
+gfdc : 4
+abedg : 5
+Key : edcba ecgdb aedbcf aebf dabfc fdacge badgfc ae ead gfcbade 
+Target :  gcebdaf degbc ebfadc efdcba
+edcba : 5
+ecgdb : 5
+aedbcf : 6
+aebf : 4
+dabfc : 5
+fdacge : 6
+badgfc : 6
+ae : 2
+ead : 3
+gfcbade : 7
+gcebdaf : 7
+degbc : 5
+ebfadc : 6
+efdcba : 6
+Key : caedbg dbgec dcbf ecgdbf cgdef dgf bgaedcf egacf afebgd fd 
+Target :  cdfbeg ecfbgda gcbfed cbgedf
+caedbg : 6
+dbgec : 5
+dcbf : 4
+ecgdbf : 6
+cgdef : 5
+dgf : 3
+bgaedcf : 7
+egacf : 5
+afebgd : 6
+fd : 2
+cdfbeg : 6
+ecfbgda : 7
+gcbfed : 6
+cbgedf : 6
+Key : bdag acdeb ecgdb egbcfa fcdbega gb dbecag cbdafe ebg gdcef 
+Target :  bedgc abdfcge efagcb cdgef
+bdag : 4
+acdeb : 5
+ecgdb : 5
+egbcfa : 6
+fcdbega : 7
+gb : 2
+dbecag : 6
+cbdafe : 6
+ebg : 3
+gdcef : 5
+bedgc : 5
+abdfcge : 7
+efagcb : 6
+cdgef : 5
+Key : bfade bfdga dfbgec cagbfd dfgacbe gba gacf ag gdcbf abgedc 
+Target :  cfag abdcge ebafd abefd
+bfade : 5
+bfdga : 5
+dfbgec : 6
+cagbfd : 6
+dfgacbe : 7
+gba : 3
+gacf : 4
+ag : 2
+gdcbf : 5
+abgedc : 6
+cfag : 4
+abdcge : 6
+ebafd : 5
+abefd : 5
+Key : agcdef bcfda bdgca aebdfcg eagdc gb dbg gbea cedagb bfgdec 
+Target :  dfabgec eafdgc acdge gdecab
+agcdef : 6
+bcfda : 5
+bdgca : 5
+aebdfcg : 7
+eagdc : 5
+gb : 2
+dbg : 3
+gbea : 4
+cedagb : 6
+bfgdec : 6
+dfabgec : 7
+eafdgc : 6
+acdge : 5
+gdecab : 6
+Key : ebacdfg cgbfad egdbc bdgfa daef bae gabed febadg ae gacbef 
+Target :  fagdb daebgf fgdab bea
+ebacdfg : 7
+cgbfad : 6
+egdbc : 5
+bdgfa : 5
+daef : 4
+bae : 3
+gabed : 5
+febadg : 6
+ae : 2
+gacbef : 6
+fagdb : 5
+daebgf : 6
+fgdab : 5
+bea : 3
+Key : dcgbf cbedf degc bgc fcgdbea fbadg cfdgbe gc efacgb fdbace 
+Target :  edfcb cfeabg cg edbacf
+dcgbf : 5
+cbedf : 5
+degc : 4
+bgc : 3
+fcgdbea : 7
+fbadg : 5
+cfdgbe : 6
+gc : 2
+efacgb : 6
+fdbace : 6
+edfcb : 5
+cfeabg : 6
+cg : 2
+edbacf : 6
+Key : bcdagfe dfacb cbfdge bgcdf fdgeac acd agbd acbef da dcgfba 
+Target :  cbgdf dgab ad gbdcaf
+bcdagfe : 7
+dfacb : 5
+cbfdge : 6
+bgcdf : 5
+fdgeac : 6
+acd : 3
+agbd : 4
+acbef : 5
+da : 2
+dcgfba : 6
+cbgdf : 5
+dgab : 4
+ad : 2
+gbdcaf : 6
+Key : edgfbca gbe be ceba bdaecg gefcd dbagc egbadf dcegb dfgabc 
+Target :  gcfde gfceabd gfbcad eagfdb
+edgfbca : 7
+gbe : 3
+be : 2
+ceba : 4
+bdaecg : 6
+gefcd : 5
+dbagc : 5
+egbadf : 6
+dcegb : 5
+dfgabc : 6
+gcfde : 5
+gfceabd : 7
+gfbcad : 6
+eagfdb : 6
+Key : dfcbg fcdga efgb gecbfd gecbda dfbgaec bedfc dgb bfadce bg 
+Target :  dbcgf bfge dacgf dfgcbe
+dfcbg : 5
+fcdga : 5
+efgb : 4
+gecbfd : 6
+gecbda : 6
+dfbgaec : 7
+bedfc : 5
+dgb : 3
+bfadce : 6
+bg : 2
+dbcgf : 5
+bfge : 4
+dacgf : 5
+dfgcbe : 6
+Key : cga ebdgaf bfdag cbgfe bfadgc gbfeadc ac cagfb cdba cgadef 
+Target :  bfdag agedcf aegcbfd gcfab
+cga : 3
+ebdgaf : 6
+bfdag : 5
+cbgfe : 5
+bfadgc : 6
+gbfeadc : 7
+ac : 2
+cagfb : 5
+cdba : 4
+cgadef : 6
+bfdag : 5
+agedcf : 6
+aegcbfd : 7
+gcfab : 5
+Key : gcead gfdbec cbdge gabfce eb dfgcba ecfdgab befd dgcbf ebg 
+Target :  cdgae fbdegc bcdge gcdfb
+gcead : 5
+gfdbec : 6
+cbdge : 5
+gabfce : 6
+eb : 2
+dfgcba : 6
+ecfdgab : 7
+befd : 4
+dgcbf : 5
+ebg : 3
+cdgae : 5
+fbdegc : 6
+bcdge : 5
+gcdfb : 5
+Key : da ebgfda fcdeagb acgbfe gedba dbegc agdecf dae bafeg bfda 
+Target :  gdafec fegba edfbga aed
+da : 2
+ebgfda : 6
+fcdeagb : 7
+acgbfe : 6
+gedba : 5
+dbegc : 5
+agdecf : 6
+dae : 3
+bafeg : 5
+bfda : 4
+gdafec : 6
+fegba : 5
+edfbga : 6
+aed : 3
+Key : fbagec gdfba bcg gebcfd cbafg bcdfgea ebac cefag faedcg bc 
+Target :  gfbac baegcfd fabegc dgeacbf
+fbagec : 6
+gdfba : 5
+bcg : 3
+gebcfd : 6
+cbafg : 5
+bcdfgea : 7
+ebac : 4
+cefag : 5
+faedcg : 6
+bc : 2
+gfbac : 5
+baegcfd : 7
+fabegc : 6
+dgeacbf : 7
+Key : dfbeag fabdg fdbe abdeg eb dcega gcefba cfdbag dgcfbae geb 
+Target :  cgbafd bdef dcage eb
+dfbeag : 6
+fabdg : 5
+fdbe : 4
+abdeg : 5
+eb : 2
+dcega : 5
+gcefba : 6
+cfdbag : 6
+dgcfbae : 7
+geb : 3
+cgbafd : 6
+bdef : 4
+dcage : 5
+eb : 2
+Key : abdcfe gba dagf cagbefd fdbea bfega ag dafbge dcbeag gfceb 
+Target :  afbcde ecgfb dfbega bdgeca
+abdcfe : 6
+gba : 3
+dagf : 4
+cagbefd : 7
+fdbea : 5
+bfega : 5
+ag : 2
+dafbge : 6
+dcbeag : 6
+gfceb : 5
+afbcde : 6
+ecgfb : 5
+dfbega : 6
+bdgeca : 6
+Key : dg dge gdbc cfdae bcgae cbdage abgfde cfedagb cdgae eacgbf 
+Target :  eabgc bgeac bcdg cagbe
+dg : 2
+dge : 3
+gdbc : 4
+cfdae : 5
+bcgae : 5
+cbdage : 6
+abgfde : 6
+cfedagb : 7
+cdgae : 5
+eacgbf : 6
+eabgc : 5
+bgeac : 5
+bcdg : 4
+cagbe : 5
+Key : bfd dgaeb gcabde fd bfgce dgfa dbefg gadbfce dbafge fabcde 
+Target :  edfcba efbcg df bdf
+bfd : 3
+dgaeb : 5
+gcabde : 6
+fd : 2
+bfgce : 5
+dgfa : 4
+dbefg : 5
+gadbfce : 7
+dbafge : 6
+fabcde : 6
+edfcba : 6
+efbcg : 5
+df : 2
+bdf : 3
+Key : gcbfd agbecd fedc edcbfg fdb eadfbg bcfag fd gedcb gbacdef 
+Target :  fgbac bdagfec gfbdaec aegbdc
+gcbfd : 5
+agbecd : 6
+fedc : 4
+edcbfg : 6
+fdb : 3
+eadfbg : 6
+bcfag : 5
+fd : 2
+gedcb : 5
+gbacdef : 7
+fgbac : 5
+bdagfec : 7
+gfbdaec : 7
+aegbdc : 6
+Key : cgbdfe ce acedg adcfeg bcfegad fcea ceg abdeg afbdcg fcgda 
+Target :  ecg aefdcg dacge ec
+cgbdfe : 6
+ce : 2
+acedg : 5
+adcfeg : 6
+bcfegad : 7
+fcea : 4
+ceg : 3
+abdeg : 5
+afbdcg : 6
+fcgda : 5
+ecg : 3
+aefdcg : 6
+dacge : 5
+ec : 2
+Key : egbdfca efacb agcdbe cbaed bdafgc dfaecg debg bd bda agced 
+Target :  geadbc efbca gabfdc bd
+egbdfca : 7
+efacb : 5
+agcdbe : 6
+cbaed : 5
+bdafgc : 6
+dfaecg : 6
+debg : 4
+bd : 2
+bda : 3
+agced : 5
+geadbc : 6
+efbca : 5
+gabfdc : 6
+bd : 2
+Key : edcfb bfgecd ecabfd eca abcd fgeab fedcag abfedgc ac bfeca 
+Target :  bgfae eca cdgfeb bfaec
+edcfb : 5
+bfgecd : 6
+ecabfd : 6
+eca : 3
+abcd : 4
+fgeab : 5
+fedcag : 6
+abfedgc : 7
+ac : 2
+bfeca : 5
+bgfae : 5
+eca : 3
+cdgfeb : 6
+bfaec : 5
+Key : cadef cebdga ebd bacdfe dagfec dbfa fcebg ecbgfad db fdecb 
+Target :  befcd acgdeb abdf dbfa
+cadef : 5
+cebdga : 6
+ebd : 3
+bacdfe : 6
+dagfec : 6
+dbfa : 4
+fcebg : 5
+ecbgfad : 7
+db : 2
+fdecb : 5
+befcd : 5
+acgdeb : 6
+abdf : 4
+dbfa : 4
+Key : gbfecda bfd cdagb fbdacg fgdbec gbaf cbadf aefdc eadcgb bf 
+Target :  adcgb dfbca agbf dafcb
+gbfecda : 7
+bfd : 3
+cdagb : 5
+fbdacg : 6
+fgdbec : 6
+gbaf : 4
+cbadf : 5
+aefdc : 5
+eadcgb : 6
+bf : 2
+adcgb : 5
+dfbca : 5
+agbf : 4
+dafcb : 5
+Key : abedg acbgf fd gaefcb cagbdef cdaf dcbfeg bdagf dgcbfa bfd 
+Target :  gbadcef df fadgb gabcdf
+abedg : 5
+acbgf : 5
+fd : 2
+gaefcb : 6
+cagbdef : 7
+cdaf : 4
+dcbfeg : 6
+bdagf : 5
+dgcbfa : 6
+bfd : 3
+gbadcef : 7
+df : 2
+fadgb : 5
+gabcdf : 6
+Key : fbgadc dbcfg dcega cgdfe cfedbg caefgb ef gef gfaebcd fedb 
+Target :  fcedg febd gbcdfa cdgfab
+fbgadc : 6
+dbcfg : 5
+dcega : 5
+cgdfe : 5
+cfedbg : 6
+caefgb : 6
+ef : 2
+gef : 3
+gfaebcd : 7
+fedb : 4
+fcedg : 5
+febd : 4
+gbcdfa : 6
+cdgfab : 6
+Key : bg adgb fcaedbg cgfda fcbae bcg dfacge fgcdba decgfb bcagf 
+Target :  cgafb dbfcage bdgcfe dbga
+bg : 2
+adgb : 4
+fcaedbg : 7
+cgfda : 5
+fcbae : 5
+bcg : 3
+dfacge : 6
+fgcdba : 6
+decgfb : 6
+bcagf : 5
+cgafb : 5
+dbfcage : 7
+bdgcfe : 6
+dbga : 4
+Key : ed afbdg acefb aecbfg cfdabeg gedfcb fcdabe ecda def ebdfa 
+Target :  gbafd gedfcb dfegcb dfgba
+ed : 2
+afbdg : 5
+acefb : 5
+aecbfg : 6
+cfdabeg : 7
+gedfcb : 6
+fcdabe : 6
+ecda : 4
+def : 3
+ebdfa : 5
+gbafd : 5
+gedfcb : 6
+dfegcb : 6
+dfgba : 5
+Key : gcdfae efgdb abdfcg fde gdabf dbcegfa fedgab efab ef ebdcg 
+Target :  eafb gbfda gacedf cbdge
+gcdfae : 6
+efgdb : 5
+abdfcg : 6
+fde : 3
+gdabf : 5
+dbcegfa : 7
+fedgab : 6
+efab : 4
+ef : 2
+ebdcg : 5
+eafb : 4
+gbfda : 5
+gacedf : 6
+cbdge : 5
+Key : edagfc gfaecbd bgced cbegfd cb gefdc badgfc bdc efbc adegb 
+Target :  dgbec cegafd dcbgef dgecb
+edagfc : 6
+gfaecbd : 7
+bgced : 5
+cbegfd : 6
+cb : 2
+gefdc : 5
+badgfc : 6
+bdc : 3
+efbc : 4
+adegb : 5
+dgbec : 5
+cegafd : 6
+dcbgef : 6
+dgecb : 5
+Key : gedcab beg eg cafgb fbegc gdfe bdgfec gabcedf bdafce bcdfe 
+Target :  gcefb afcbed ge gdfe
+gedcab : 6
+beg : 3
+eg : 2
+cafgb : 5
+fbegc : 5
+gdfe : 4
+bdgfec : 6
+gabcedf : 7
+bdafce : 6
+bcdfe : 5
+gcefb : 5
+afcbed : 6
+ge : 2
+gdfe : 4
+Key : fdbagc cdgefab edacf ceba ea cfbaed ecfdg abfegd adfbc eda 
+Target :  ea beadfc abcgdef ecdgf
+fdbagc : 6
+cdgefab : 7
+edacf : 5
+ceba : 4
+ea : 2
+cfbaed : 6
+ecfdg : 5
+abfegd : 6
+adfbc : 5
+eda : 3
+ea : 2
+beadfc : 6
+abcgdef : 7
+ecdgf : 5
+Key : fbc gfbacd fecda cbdfa dbgf dceabg gbcdfea efbgac cdabg bf 
+Target :  gbdf agbced gaedbc gfdb
+fbc : 3
+gfbacd : 6
+fecda : 5
+cbdfa : 5
+dbgf : 4
+dceabg : 6
+gbcdfea : 7
+efbgac : 6
+cdabg : 5
+bf : 2
+gbdf : 4
+agbced : 6
+gaedbc : 6
+gfdb : 4
+Key : aegcb bfgecd fbegad fcagdbe dfgce fcbd gdeacf fb bgf bgfce 
+Target :  bgafedc gcdaef dgfcbe eadgcf
+aegcb : 5
+bfgecd : 6
+fbegad : 6
+fcagdbe : 7
+dfgce : 5
+fcbd : 4
+gdeacf : 6
+fb : 2
+bgf : 3
+bgfce : 5
+bgafedc : 7
+gcdaef : 6
+dgfcbe : 6
+eadgcf : 6
+Key : def dbce agdfeb ed fdgbcea dgcfb aegfc dfgbac gecfd cdfgbe 
+Target :  cdfegb ed cdgfaeb ebdc
+def : 3
+dbce : 4
+agdfeb : 6
+ed : 2
+fdgbcea : 7
+dgcfb : 5
+aegfc : 5
+dfgbac : 6
+gecfd : 5
+cdfgbe : 6
+cdfegb : 6
+ed : 2
+cdgfaeb : 7
+ebdc : 4
+Key : ecbfad afdb eagbfc caebgdf edfcb dgfec cgdbae bd bcafe bdc 
+Target :  bfacegd fbdcae dbc bgfdcea
+ecbfad : 6
+afdb : 4
+eagbfc : 6
+caebgdf : 7
+edfcb : 5
+dgfec : 5
+cgdbae : 6
+bd : 2
+bcafe : 5
+bdc : 3
+bfacegd : 7
+fbdcae : 6
+dbc : 3
+bgfdcea : 7
+Key : dfgba eg cfbead gde bfedgc dceab cabfdge gdbae aecg aedgcb 
+Target :  egd adebg gde debcfa
+dfgba : 5
+eg : 2
+cfbead : 6
+gde : 3
+bfedgc : 6
+dceab : 5
+cabfdge : 7
+gdbae : 5
+aecg : 4
+aedgcb : 6
+egd : 3
+adebg : 5
+gde : 3
+debcfa : 6
+Key : cadfb egfb afgbc adbegc ecgadf ecagb fga ecfgab bgacfde fg 
+Target :  afcbg cgfba gf dacbge
+cadfb : 5
+egfb : 4
+afgbc : 5
+adbegc : 6
+ecgadf : 6
+ecagb : 5
+fga : 3
+ecfgab : 6
+bgacfde : 7
+fg : 2
+afcbg : 5
+cgfba : 5
+gf : 2
+dacbge : 6
+Key : cegbf dec efcdg facdge dfae dcbafge ed adgfc fdbagc cgaebd 
+Target :  dce gbcfe afcdgbe dcgabf
+cegbf : 5
+dec : 3
+efcdg : 5
+facdge : 6
+dfae : 4
+dcbafge : 7
+ed : 2
+adgfc : 5
+fdbagc : 6
+cgaebd : 6
+dce : 3
+gbcfe : 5
+afcdgbe : 7
+dcgabf : 6
+Key : cfabe fa eabgfc cgaf fba gfbce dcfbge edbgcfa efbadg acebd 
+Target :  cfebga bfa fedcagb abfce
+cfabe : 5
+fa : 2
+eabgfc : 6
+cgaf : 4
+fba : 3
+gfbce : 5
+dcfbge : 6
+edbgcfa : 7
+efbadg : 6
+acebd : 5
+cfebga : 6
+bfa : 3
+fedcagb : 7
+abfce : 5
+Key : acdfb dbagf afcebgd beag afgedb gfdea gbd fgdcbe gb cdeagf 
+Target :  dafge gafed gfacde gb
+acdfb : 5
+dbagf : 5
+afcebgd : 7
+beag : 4
+afgedb : 6
+gfdea : 5
+gbd : 3
+fgdcbe : 6
+gb : 2
+cdeagf : 6
+dafge : 5
+gafed : 5
+gfacde : 6
+gb : 2
+Key : gdfeac dfgce ebfadcg edagc dacf baegdc fd gdf egcfb dabgef 
+Target :  degfbac cfdeg daebgf cdeagb
+gdfeac : 6
+dfgce : 5
+ebfadcg : 7
+edagc : 5
+dacf : 4
+baegdc : 6
+fd : 2
+gdf : 3
+egcfb : 5
+dabgef : 6
+degfbac : 7
+cfdeg : 5
+daebgf : 6
+cdeagb : 6
+Key : fcgabe ebcd ecfdg dabcgf gfecabd cfd ebcfg dc bcfegd adefg 
+Target :  agedf cd bcefg dc
+fcgabe : 6
+ebcd : 4
+ecfdg : 5
+dabcgf : 6
+gfecabd : 7
+cfd : 3
+ebcfg : 5
+dc : 2
+bcfegd : 6
+adefg : 5
+agedf : 5
+cd : 2
+bcefg : 5
+dc : 2
+Key : cbaeg bcfea fb feb gfaceb gdfbec dagbec gfab deacf bgcaedf 
+Target :  acbfge bf afgb efb
+cbaeg : 5
+bcfea : 5
+fb : 2
+feb : 3
+gfaceb : 6
+gdfbec : 6
+dagbec : 6
+gfab : 4
+deacf : 5
+bgcaedf : 7
+acbfge : 6
+bf : 2
+afgb : 4
+efb : 3
+Key : egdba cadgfbe efadbg cg begc bfgdca caegd abcegd dcg acdfe 
+Target :  fbegcad bceg gcd cdgebaf
+egdba : 5
+cadgfbe : 7
+efadbg : 6
+cg : 2
+begc : 4
+bfgdca : 6
+caegd : 5
+abcegd : 6
+dcg : 3
+acdfe : 5
+fbegcad : 7
+bceg : 4
+gcd : 3
+cdgebaf : 7
+Key : agbcd dafcgb cfdg ceadb fdgeba eafbcg gfdab gbc bgdcafe cg 
+Target :  gfadcbe fbagd decba gc
+agbcd : 5
+dafcgb : 6
+cfdg : 4
+ceadb : 5
+fdgeba : 6
+eafbcg : 6
+gfdab : 5
+gbc : 3
+bgdcafe : 7
+cg : 2
+gfadcbe : 7
+fbagd : 5
+decba : 5
+gc : 2
+Key : gfbec adgc dge egdcfa abgfde abgdfce dg eacfdb fdaec gdfce 
+Target :  fecgd gd fgcbe acdef
+gfbec : 5
+adgc : 4
+dge : 3
+egdcfa : 6
+abgfde : 6
+abgdfce : 7
+dg : 2
+eacfdb : 6
+fdaec : 5
+gdfce : 5
+fecgd : 5
+gd : 2
+fgcbe : 5
+acdef : 5
+Key : fdbceg bfedc af fegcad cbdag daf efab dabcef fbeadgc cbfad 
+Target :  fcabd cbfad gcfdbe gadbc
+fdbceg : 6
+bfedc : 5
+af : 2
+fegcad : 6
+cbdag : 5
+daf : 3
+efab : 4
+dabcef : 6
+fbeadgc : 7
+cbfad : 5
+fcabd : 5
+cbfad : 5
+gcfdbe : 6
+gadbc : 5
+Key : ebgac fabdeg bedca cg aegdcfb geacbf ceg efgba facg fbedcg 
+Target :  gecdfb aebfg fagc ceg
+ebgac : 5
+fabdeg : 6
+bedca : 5
+cg : 2
+aegdcfb : 7
+geacbf : 6
+ceg : 3
+efgba : 5
+facg : 4
+fbedcg : 6
+gecdfb : 6
+aebfg : 5
+fagc : 4
+ceg : 3
+Key : eagb dcgeb ba abd cbeagd cdgafb fecbdga fgedcb dacfe dacbe 
+Target :  bdfeacg cadgbf bgedfc fcdae
+eagb : 4
+dcgeb : 5
+ba : 2
+abd : 3
+cbeagd : 6
+cdgafb : 6
+fecbdga : 7
+fgedcb : 6
+dacfe : 5
+dacbe : 5
+bdfeacg : 7
+cadgbf : 6
+bgedfc : 6
+fcdae : 5
+Key : dbac cfgae cbfgde ba bga gcfbad dcfebga gcdbf feagbd cgbaf 
+Target :  cgafb fagbdc dcfbg afgebd
+dbac : 4
+cfgae : 5
+cbfgde : 6
+ba : 2
+bga : 3
+gcfbad : 6
+dcfebga : 7
+gcdbf : 5
+feagbd : 6
+cgbaf : 5
+cgafb : 5
+fagbdc : 6
+dcfbg : 5
+afgebd : 6
+Key : adbgfe fgb egdafc cbafd dfegbc edgafbc egfcd cegb gfcdb gb 
+Target :  bg fdacge efcadg egdfba
+adbgfe : 6
+fgb : 3
+egdafc : 6
+cbafd : 5
+dfegbc : 6
+edgafbc : 7
+egfcd : 5
+cegb : 4
+gfcdb : 5
+gb : 2
+bg : 2
+fdacge : 6
+efcadg : 6
+egdfba : 6
+Key : agfbe cgaefdb gbdf edagb afg cdgafe gfedab fg egcdba fabec 
+Target :  fcbdega fag agf agf
+agfbe : 5
+cgaefdb : 7
+gbdf : 4
+edagb : 5
+afg : 3
+cdgafe : 6
+gfedab : 6
+fg : 2
+egcdba : 6
+fabec : 5
+fcbdega : 7
+fag : 3
+agf : 3
+agf : 3
+Key : cae edabfc cdfega ca cfba gadeb fdecb ecagfbd cbgdef acdeb 
+Target :  facdeb fgecad bfadce efcgbad
+cae : 3
+edabfc : 6
+cdfega : 6
+ca : 2
+cfba : 4
+gadeb : 5
+fdecb : 5
+ecagfbd : 7
+cbgdef : 6
+acdeb : 5
+facdeb : 6
+fgecad : 6
+bfadce : 6
+efcgbad : 7
+Key : facb dbfec dceabf efgcd cb aecfbgd dgfbae eafdb ebdagc bcd 
+Target :  bfedc cdegab cbdfe adefb
+facb : 4
+dbfec : 5
+dceabf : 6
+efgcd : 5
+cb : 2
+aecfbgd : 7
+dgfbae : 6
+eafdb : 5
+ebdagc : 6
+bcd : 3
+bfedc : 5
+cdegab : 6
+cbdfe : 5
+adefb : 5
+Key : fecbga badgc dga bfgadec dg geacb cgedba dfebag gcde fcabd 
+Target :  decg gda baceg gd
+fecbga : 6
+badgc : 5
+dga : 3
+bfgadec : 7
+dg : 2
+geacb : 5
+cgedba : 6
+dfebag : 6
+gcde : 4
+fcabd : 5
+decg : 4
+gda : 3
+baceg : 5
+gd : 2
+Key : gecbd gcbdfea cbfg bg bge egbcdf dcbef beafdc cdeag bfgeda 
+Target :  agcde dceag gfabde beg
+gecbd : 5
+gcbdfea : 7
+cbfg : 4
+bg : 2
+bge : 3
+egbcdf : 6
+dcbef : 5
+beafdc : 6
+cdeag : 5
+bfgeda : 6
+agcde : 5
+dceag : 5
+gfabde : 6
+beg : 3
+Key : gefba gacfbe facdeg cg cgab gfc efbdcag cfgeb cefbd afegbd 
+Target :  gfc afbge dafegb aebcgf
+gefba : 5
+gacfbe : 6
+facdeg : 6
+cg : 2
+cgab : 4
+gfc : 3
+efbdcag : 7
+cfgeb : 5
+cefbd : 5
+afegbd : 6
+gfc : 3
+afbge : 5
+dafegb : 6
+aebcgf : 6
+Key : egd aebfgd gefc ge gedbfca bdcfe dfcegb gecdb edbacf cdbag 
+Target :  dacbg edcfbg bcdfe ge
+egd : 3
+aebfgd : 6
+gefc : 4
+ge : 2
+gedbfca : 7
+bdcfe : 5
+dfcegb : 6
+gecdb : 5
+edbacf : 6
+cdbag : 5
+dacbg : 5
+edcfbg : 6
+bcdfe : 5
+ge : 2
+Key : df ebdga gcdefa cfbd bgdfa afgcb dfeagbc bfacgd fgd facebg 
+Target :  gaebd gecbaf fdcb dfbag
+df : 2
+ebdga : 5
+gcdefa : 6
+cfbd : 4
+bgdfa : 5
+afgcb : 5
+dfeagbc : 7
+bfacgd : 6
+fgd : 3
+facebg : 6
+gaebd : 5
+gecbaf : 6
+fdcb : 4
+dfbag : 5
+Key : fag cegfdab cadebg dabcgf abefg eafc ecafgb ebacg fbdge fa 
+Target :  ebfag dbcgfae gbecad fdbgac
+fag : 3
+cegfdab : 7
+cadebg : 6
+dabcgf : 6
+abefg : 5
+eafc : 4
+ecafgb : 6
+ebacg : 5
+fbdge : 5
+fa : 2
+ebfag : 5
+dbcgfae : 7
+gbecad : 6
+fdbgac : 6
+Key : gecbd gefa gfc fabdcg bfaecd ecgafbd fg befgc efabc gecbfa 
+Target :  gfae gcf egbdafc edgbc
+gecbd : 5
+gefa : 4
+gfc : 3
+fabdcg : 6
+bfaecd : 6
+ecgafbd : 7
+fg : 2
+befgc : 5
+efabc : 5
+gecbfa : 6
+gfae : 4
+gcf : 3
+egbdafc : 7
+edgbc : 5
+Key : bfgae fcebag fdbe fd fedag adgfbc fdbgea ecagd agcbfed fad 
+Target :  fgabe dfeb ebfd gefba
+bfgae : 5
+fcebag : 6
+fdbe : 4
+fd : 2
+fedag : 5
+adgfbc : 6
+fdbgea : 6
+ecagd : 5
+agcbfed : 7
+fad : 3
+fgabe : 5
+dfeb : 4
+ebfd : 4
+gefba : 5
+Key : ecdgfb afge bdage ebcda eg abdgef fgadb gabcfd dge bcdagef 
+Target :  gdebfa eg agfbdec afeg
+ecdgfb : 6
+afge : 4
+bdage : 5
+ebcda : 5
+eg : 2
+abdgef : 6
+fgadb : 5
+gabcfd : 6
+dge : 3
+bcdagef : 7
+gdebfa : 6
+eg : 2
+agfbdec : 7
+afeg : 4
+Key : dbc acefd cegadbf fbcde afcb fdcaeg bc acdbge febdac debfg 
+Target :  ceafd caefd gfbaced dcb
+dbc : 3
+acefd : 5
+cegadbf : 7
+fbcde : 5
+afcb : 4
+fdcaeg : 6
+bc : 2
+acdbge : 6
+febdac : 6
+debfg : 5
+ceafd : 5
+caefd : 5
+gfbaced : 7
+dcb : 3
+Key : fecgb fgacd gdcefba de gbafce febd gecfd edc fecdbg ecbgda 
+Target :  becdfg ed becgad gcdeba
+fecgb : 5
+fgacd : 5
+gdcefba : 7
+de : 2
+gbafce : 6
+febd : 4
+gecfd : 5
+edc : 3
+fecdbg : 6
+ecbgda : 6
+becdfg : 6
+ed : 2
+becgad : 6
+gcdeba : 6
+Key : agfdbe fbac bcd edacfb bgecfd cb cdeba cfgdeab acged edfab 
+Target :  cb dbc adbce bdfae
+agfdbe : 6
+fbac : 4
+bcd : 3
+edacfb : 6
+bgecfd : 6
+cb : 2
+cdeba : 5
+cfgdeab : 7
+acged : 5
+edfab : 5
+cb : 2
+dbc : 3
+adbce : 5
+bdfae : 5
+Key : dgacef bdfa ecgbf ab fegba dgafe efdbgca abg acebdg afbdge 
+Target :  gefda ecgafd ecfbg begcad
+dgacef : 6
+bdfa : 4
+ecgbf : 5
+ab : 2
+fegba : 5
+dgafe : 5
+efdbgca : 7
+abg : 3
+acebdg : 6
+afbdge : 6
+gefda : 5
+ecgafd : 6
+ecfbg : 5
+begcad : 6
+Key : gbfcea bgfa afdebc aegdcb af bgcdfea bgeac gecdf afc fgace 
+Target :  bfgecad fca afc abfg
+gbfcea : 6
+bgfa : 4
+afdebc : 6
+aegdcb : 6
+af : 2
+bgcdfea : 7
+bgeac : 5
+gecdf : 5
+afc : 3
+fgace : 5
+bfgecad : 7
+fca : 3
+afc : 3
+abfg : 4
+Key : cfe dgcfe fdagcb gebdc egfa gbcdefa dcebfa fe agdfc fgaedc 
+Target :  dfgac fe fce fcdbega
+cfe : 3
+dgcfe : 5
+fdagcb : 6
+gebdc : 5
+egfa : 4
+gbcdefa : 7
+dcebfa : 6
+fe : 2
+agdfc : 5
+fgaedc : 6
+dfgac : 5
+fe : 2
+fce : 3
+fcdbega : 7
+Key : fecgab gcbdef cbaefgd dfgbe dgcfe eb bfe dbfga edbc acfegd 
+Target :  fbdeg fdgeca agefbc egcfd
+fecgab : 6
+gcbdef : 6
+cbaefgd : 7
+dfgbe : 5
+dgcfe : 5
+eb : 2
+bfe : 3
+dbfga : 5
+edbc : 4
+acfegd : 6
+fbdeg : 5
+fdgeca : 6
+agefbc : 6
+egcfd : 5
+Key : aecd bac dfacbe cafdb ac gefcab gfcdbe fcbde gbdaf cbdegaf 
+Target :  gcdbefa fbgcae ecad fagecb
+aecd : 4
+bac : 3
+dfacbe : 6
+cafdb : 5
+ac : 2
+gefcab : 6
+gfcdbe : 6
+fcbde : 5
+gbdaf : 5
+cbdegaf : 7
+gcdbefa : 7
+fbgcae : 6
+ecad : 4
+fagecb : 6
+Key : eagbf cagedf geafdbc fdgbce adefb aecfd adcb deb faecbd bd 
+Target :  ebd deabf fadcge cdagfe
+eagbf : 5
+cagedf : 6
+geafdbc : 7
+fdgbce : 6
+adefb : 5
+aecfd : 5
+adcb : 4
+deb : 3
+faecbd : 6
+bd : 2
+ebd : 3
+deabf : 5
+fadcge : 6
+cdagfe : 6
+Key : gadefcb bfcga eadcgb egdbfc deag ecg edabc acedbf eg abgce 
+Target :  gdea bagce gce gce
+gadefcb : 7
+bfcga : 5
+eadcgb : 6
+egdbfc : 6
+deag : 4
+ecg : 3
+edabc : 5
+acedbf : 6
+eg : 2
+abgce : 5
+gdea : 4
+bagce : 5
+gce : 3
+gce : 3
+Key : agcfe bec gecab gbeda facb dbfgec fcegab gfacde gfdaceb cb 
+Target :  cb cefdgb cadefgb bc
+agcfe : 5
+bec : 3
+gecab : 5
+gbeda : 5
+facb : 4
+dbfgec : 6
+fcegab : 6
+gfacde : 6
+gfdaceb : 7
+cb : 2
+cb : 2
+cefdgb : 6
+cadefgb : 7
+bc : 2
+Key : fdgb df egabcf fegda cedga fegab efdbac def cgdefba gafedb 
+Target :  facdbe bafceg agedf fdebga
+fdgb : 4
+df : 2
+egabcf : 6
+fegda : 5
+cedga : 5
+fegab : 5
+efdbac : 6
+def : 3
+cgdefba : 7
+gafedb : 6
+facdbe : 6
+bafceg : 6
+agedf : 5
+fdebga : 6
+Key : fdaecg dbcafg abfgec dc caefg cedg aecfd abdgfce eadbf fcd 
+Target :  cgefab gbfacd fbegac fabecg
+fdaecg : 6
+dbcafg : 6
+abfgec : 6
+dc : 2
+caefg : 5
+cedg : 4
+aecfd : 5
+abdgfce : 7
+eadbf : 5
+fcd : 3
+cgefab : 6
+gbfacd : 6
+fbegac : 6
+fabecg : 6
+Key : dfecabg bcfeag gdafce dagbfc cdefb dca gafbc dbag da bcadf 
+Target :  dca bagfce cbfda cdagbf
+dfecabg : 7
+bcfeag : 6
+gdafce : 6
+dagbfc : 6
+cdefb : 5
+dca : 3
+gafbc : 5
+dbag : 4
+da : 2
+bcadf : 5
+dca : 3
+bagfce : 6
+cbfda : 5
+cdagbf : 6
+Key : dabfgec febadg gbcdae gfbe adebf ef cabdf edfgca ebgda eaf 
+Target :  gfacbed abgced egdfca egfb
+dabfgec : 7
+febadg : 6
+gbcdae : 6
+gfbe : 4
+adebf : 5
+ef : 2
+cabdf : 5
+edfgca : 6
+ebgda : 5
+eaf : 3
+gfacbed : 7
+abgced : 6
+egdfca : 6
+egfb : 4
+Key : cfdea dc fdagebc fegcbd agdc gcfade fcabe cfd efdgba gfead 
+Target :  bdfcge agdc dgefa cfd
+cfdea : 5
+dc : 2
+fdagebc : 7
+fegcbd : 6
+agdc : 4
+gcfade : 6
+fcabe : 5
+cfd : 3
+efdgba : 6
+gfead : 5
+bdfcge : 6
+agdc : 4
+dgefa : 5
+cfd : 3
+Key : gbfca febadcg bc bdegcf beca begaf gabedf cgfbae cgfad cbg 
+Target :  bcg dcaefgb dfgceb afebdg
+gbfca : 5
+febadcg : 7
+bc : 2
+bdegcf : 6
+beca : 4
+begaf : 5
+gabedf : 6
+cgfbae : 6
+cgfad : 5
+cbg : 3
+bcg : 3
+dcaefgb : 7
+dfgceb : 6
+afebdg : 6
+Key : cg cgbf bedcg fcagde adefbcg efdgcb ebacd cgd edbfg egdafb 
+Target :  cfgedb bgcf acegdf cfgb
+cg : 2
+cgbf : 4
+bedcg : 5
+fcagde : 6
+adefbcg : 7
+efdgcb : 6
+ebacd : 5
+cgd : 3
+edbfg : 5
+egdafb : 6
+cfgedb : 6
+bgcf : 4
+acegdf : 6
+cfgb : 4
+Key : bfad adcgbe faceg fagbdc df afdgc efcbdag dfbegc gfd badcg 
+Target :  gfd abgcd fgd abfd
+bfad : 4
+adcgbe : 6
+faceg : 5
+fagbdc : 6
+df : 2
+afdgc : 5
+efcbdag : 7
+dfbegc : 6
+gfd : 3
+badcg : 5
+gfd : 3
+abgcd : 5
+fgd : 3
+abfd : 4
+Key : bcadgf cgdfb adgcb gf gafc dcfeabg bdagce dgf dfbega cebdf 
+Target :  adcbfg gfca fdcbe gfac
+bcadgf : 6
+cgdfb : 5
+adgcb : 5
+gf : 2
+gafc : 4
+dcfeabg : 7
+bdagce : 6
+dgf : 3
+dfbega : 6
+cebdf : 5
+adcbfg : 6
+gfca : 4
+fdcbe : 5
+gfac : 4
+Key : daebf fcabgde bgdcef gab ga edbcga afcg ebfga aefbgc egbcf 
+Target :  ebcfg ebcgfa fcgebd agcf
+daebf : 5
+fcabgde : 7
+bgdcef : 6
+gab : 3
+ga : 2
+edbcga : 6
+afcg : 4
+ebfga : 5
+aefbgc : 6
+egbcf : 5
+ebcfg : 5
+ebcgfa : 6
+fcgebd : 6
+agcf : 4
+Key : gedab fg afgecb cfgd feg cfabed befdc fgdcbe gdceafb befgd 
+Target :  ecafbg ecfbd febdc gf
+gedab : 5
+fg : 2
+afgecb : 6
+cfgd : 4
+feg : 3
+cfabed : 6
+befdc : 5
+fgdcbe : 6
+gdceafb : 7
+befgd : 5
+ecafbg : 6
+ecfbd : 5
+febdc : 5
+gf : 2
+Key : gcbadf ce gfcdb fec feabd gbecdf dbcfage febdc agcdfe egbc 
+Target :  bafed gcbe gefcbd egcb
+gcbadf : 6
+ce : 2
+gfcdb : 5
+fec : 3
+feabd : 5
+gbecdf : 6
+dbcfage : 7
+febdc : 5
+agcdfe : 6
+egbc : 4
+bafed : 5
+gcbe : 4
+gefcbd : 6
+egcb : 4
+Key : cbdfg gbcafd feb gaecf gcbfe gfbdae be fcgabde bdgcef becd 
+Target :  abgedf gdfebc aedgfb fbe
+cbdfg : 5
+gbcafd : 6
+feb : 3
+gaecf : 5
+gcbfe : 5
+gfbdae : 6
+be : 2
+fcgabde : 7
+bdgcef : 6
+becd : 4
+abgedf : 6
+gdfebc : 6
+aedgfb : 6
+fbe : 3
+Key : edacgbf fbdae edgac bg gab bagdec dagfce fadbgc cebg bgdea 
+Target :  aedgb bg cebg adcge
+edacgbf : 7
+fbdae : 5
+edgac : 5
+bg : 2
+gab : 3
+bagdec : 6
+dagfce : 6
+fadbgc : 6
+cebg : 4
+bgdea : 5
+aedgb : 5
+bg : 2
+cebg : 4
+adcge : 5
+Key : bda gbfea gedcab gfbceda bgdfa bfcdg febcdg bagcfd cfad da 
+Target :  dbecag bgfdc gdbfa facd
+bda : 3
+gbfea : 5
+gedcab : 6
+gfbceda : 7
+bgdfa : 5
+bfcdg : 5
+febcdg : 6
+bagcfd : 6
+cfad : 4
+da : 2
+dbecag : 6
+bgfdc : 5
+gdbfa : 5
+facd : 4
+Key : ceabd dabfe acgde bc fbca cgbfde febgda dfecagb ebafdc bdc 
+Target :  cbdae dbfea fgdceb gbfedc
+ceabd : 5
+dabfe : 5
+acgde : 5
+bc : 2
+fbca : 4
+cgbfde : 6
+febgda : 6
+dfecagb : 7
+ebafdc : 6
+bdc : 3
+cbdae : 5
+dbfea : 5
+fgdceb : 6
+gbfedc : 6
+Key : acg fadbgce cfgdeb dbgce efdca ag dbga cagbef egacd cdgbea 
+Target :  gdecabf gcbfea ecbdg gac
+acg : 3
+fadbgce : 7
+cfgdeb : 6
+dbgce : 5
+efdca : 5
+ag : 2
+dbga : 4
+cagbef : 6
+egacd : 5
+cdgbea : 6
+gdecabf : 7
+gcbfea : 6
+ecbdg : 5
+gac : 3
+Key : dfgacb ged egfdab efcgbda gcefbd debga ebadc ge aegf gfdab 
+Target :  cdfgab cdafgb bfcgda ge
+dfgacb : 6
+ged : 3
+egfdab : 6
+efcgbda : 7
+gcefbd : 6
+debga : 5
+ebadc : 5
+ge : 2
+aegf : 4
+gfdab : 5
+cdfgab : 6
+cdafgb : 6
+bfcgda : 6
+ge : 2
+Key : gdbeca bcfde eafg cefbgad dgafcb ge degfb adefbg dgfba bge 
+Target :  bdfeg begdf ebfadg eabdfgc
+gdbeca : 6
+bcfde : 5
+eafg : 4
+cefbgad : 7
+dgafcb : 6
+ge : 2
+degfb : 5
+adefbg : 6
+dgfba : 5
+bge : 3
+bdfeg : 5
+begdf : 5
+ebfadg : 6
+eabdfgc : 7
+Key : cfbdgae gbaec bagfcd gfcba dcaeg bacfeg dbeacf bec efgb eb 
+Target :  ceb egcab cagfb dgcae
+cfbdgae : 7
+gbaec : 5
+bagfcd : 6
+gfcba : 5
+dcaeg : 5
+bacfeg : 6
+dbeacf : 6
+bec : 3
+efgb : 4
+eb : 2
+ceb : 3
+egcab : 5
+cagfb : 5
+dgcae : 5
+Key : fdcagb gdaecb fcadg bcdgaef gd dfcea gbcaf aecgfb cgd dgbf 
+Target :  gfadc gfdb badgfc gbfca
+fdcagb : 6
+gdaecb : 6
+fcadg : 5
+bcdgaef : 7
+gd : 2
+dfcea : 5
+gbcaf : 5
+aecgfb : 6
+cgd : 3
+dgbf : 4
+gfadc : 5
+gfdb : 4
+badgfc : 6
+gbfca : 5
+Key : bcafed defgcab fgcb cfbae cagde agebfc gbcae gbe gadefb gb 
+Target :  bg gfcaeb bg aedgc
+bcafed : 6
+defgcab : 7
+fgcb : 4
+cfbae : 5
+cagde : 5
+agebfc : 6
+gbcae : 5
+gbe : 3
+gadefb : 6
+gb : 2
+bg : 2
+gfcaeb : 6
+bg : 2
+aedgc : 5
+Key : bcfadeg gbfd eacfbd gdafe afebg bafegd geafcd gebca fb bfa 
+Target :  agdefc eafbdg fgead gedaf
+bcfadeg : 7
+gbfd : 4
+eacfbd : 6
+gdafe : 5
+afebg : 5
+bafegd : 6
+geafcd : 6
+gebca : 5
+fb : 2
+bfa : 3
+agdefc : 6
+eafbdg : 6
+fgead : 5
+gedaf : 5
+Key : fcgeabd dgeaf ebgfad gceafb geadc ac aec ebcdg cafd adgefc 
+Target :  gbfadec egcbd acfd dgabef
+fcgeabd : 7
+dgeaf : 5
+ebgfad : 6
+gceafb : 6
+geadc : 5
+ac : 2
+aec : 3
+ebcdg : 5
+cafd : 4
+adgefc : 6
+gbfadec : 7
+egcbd : 5
+acfd : 4
+dgabef : 6
+Key : eac fbdgec ea eadb cbaeg agfdecb eafdgc dcgbe bcfga adcbeg 
+Target :  aec abde eac ea
+eac : 3
+fbdgec : 6
+ea : 2
+eadb : 4
+cbaeg : 5
+agfdecb : 7
+eafdgc : 6
+dcgbe : 5
+bcfga : 5
+adcbeg : 6
+aec : 3
+abde : 4
+eac : 3
+ea : 2
+Key : cedb gcadbe ed edgfbac fbega abdge gacdb fdacgb dcefag aed 
+Target :  cdagb gbcafd gdefac gedafc
+cedb : 4
+gcadbe : 6
+ed : 2
+edgfbac : 7
+fbega : 5
+abdge : 5
+gacdb : 5
+fdacgb : 6
+dcefag : 6
+aed : 3
+cdagb : 5
+gbcafd : 6
+gdefac : 6
+gedafc : 6
+Key : cae agfbec ae begcd feab fadgbc ecfadg ecabg cdgbefa cabfg 
+Target :  ecgba afcgb efba dgeafc
+cae : 3
+agfbec : 6
+ae : 2
+begcd : 5
+feab : 4
+fadgbc : 6
+ecfadg : 6
+ecabg : 5
+cdgbefa : 7
+cabfg : 5
+ecgba : 5
+afcgb : 5
+efba : 4
+dgeafc : 6
+Key : fecgabd badf efadg abedfg fea fdgceb fedgb aebfgc af gdcae 
+Target :  ebfgca fae fea af
+fecgabd : 7
+badf : 4
+efadg : 5
+abedfg : 6
+fea : 3
+fdgceb : 6
+fedgb : 5
+aebfgc : 6
+af : 2
+gdcae : 5
+ebfgca : 6
+fae : 3
+fea : 3
+af : 2
+Key : bgedac gbfae dcbefg acbf fb gaedf cagedbf aebgc gebfca fgb 
+Target :  aedgf fdgea bgfae bfdgeac
+bgedac : 6
+gbfae : 5
+dcbefg : 6
+acbf : 4
+fb : 2
+gaedf : 5
+cagedbf : 7
+aebgc : 5
+gebfca : 6
+fgb : 3
+aedgf : 5
+fdgea : 5
+bgfae : 5
+bfdgeac : 7
+Key : bagcfe eadcb gb facegdb bgc fdcag efbcad beadgc bgadc ebgd 
+Target :  gbc fbcage becad gbfcae
+bagcfe : 6
+eadcb : 5
+gb : 2
+facegdb : 7
+bgc : 3
+fdcag : 5
+efbcad : 6
+beadgc : 6
+bgadc : 5
+ebgd : 4
+gbc : 3
+fbcage : 6
+becad : 5
+gbfcae : 6
+Key : cagde gbca dcgbea gc efcad dbgfea dfgecb caedbfg adgbe cdg 
+Target :  gc egdfbc bcga cg
+cagde : 5
+gbca : 4
+dcgbea : 6
+gc : 2
+efcad : 5
+dbgfea : 6
+dfgecb : 6
+caedbfg : 7
+adgbe : 5
+cdg : 3
+gc : 2
+egdfbc : 6
+bcga : 4
+cg : 2
+Key : efgcbd aebgcd dfe eadfb abged abdcefg bacfd ef bdfaeg faeg 
+Target :  fgae cgdaeb adefb afcbd
+efgcbd : 6
+aebgcd : 6
+dfe : 3
+eadfb : 5
+abged : 5
+abdcefg : 7
+bacfd : 5
+ef : 2
+bdfaeg : 6
+faeg : 4
+fgae : 4
+cgdaeb : 6
+adefb : 5
+afcbd : 5
+Key : cgbfea gcbda gefdcb eadf febag bdf fd febgad fadbegc bgadf 
+Target :  gebcfd fgdbea dfb dbf
+cgbfea : 6
+gcbda : 5
+gefdcb : 6
+eadf : 4
+febag : 5
+bdf : 3
+fd : 2
+febgad : 6
+fadbegc : 7
+bgadf : 5
+gebcfd : 6
+fgdbea : 6
+dfb : 3
+dbf : 3
+Key : dg cdgfe gecfad dfbce bgefda fgd eafcg efcbag dgac bcdagfe 
+Target :  afdebg gfd aecgf gfcea
+dg : 2
+cdgfe : 5
+gecfad : 6
+dfbce : 5
+bgefda : 6
+fgd : 3
+eafcg : 5
+efcbag : 6
+dgac : 4
+bcdagfe : 7
+afdebg : 6
+gfd : 3
+aecgf : 5
+gfcea : 5
+Key : edfga cgefda gcdbe fbae ab egdabf cfgbda deabg bad adefcgb 
+Target :  ebadg agdeb fbae gbdae
+edfga : 5
+cgefda : 6
+gcdbe : 5
+fbae : 4
+ab : 2
+egdabf : 6
+cfgbda : 6
+deabg : 5
+bad : 3
+adefcgb : 7
+ebadg : 5
+agdeb : 5
+fbae : 4
+gbdae : 5
+Key : gbdcfa gbade ebgac ecbfa adfgbec badecf bgc gcef fbgace gc 
+Target :  gc fcge gacefdb ebgca
+gbdcfa : 6
+gbade : 5
+ebgac : 5
+ecbfa : 5
+adfgbec : 7
+badecf : 6
+bgc : 3
+gcef : 4
+fbgace : 6
+gc : 2
+gc : 2
+fcge : 4
+gacefdb : 7
+ebgca : 5
+Key : acefgd ebgaf egfda egcd bgfaecd dgcfa ed abcefd efd abdgcf 
+Target :  def ebgaf fed befcda
+acefgd : 6
+ebgaf : 5
+egfda : 5
+egcd : 4
+bgfaecd : 7
+dgcfa : 5
+ed : 2
+abcefd : 6
+efd : 3
+abdgcf : 6
+def : 3
+ebgaf : 5
+fed : 3
+befcda : 6
+Key : fecag cag cfagbd agfcbde fabec eabg fdcge cgbfea fadebc ag 
+Target :  cfgbda dfgbeca efdcg dfgcaeb
+fecag : 5
+cag : 3
+cfagbd : 6
+agfcbde : 7
+fabec : 5
+eabg : 4
+fdcge : 5
+cgbfea : 6
+fadebc : 6
+ag : 2
+cfgbda : 6
+dfgbeca : 7
+efdcg : 5
+dfgcaeb : 7
+Key : bgecfda ecdag dgfcbe bdgac adbgf afgdbe bfac gdcabf cbd bc 
+Target :  bc acbgefd fagcdb fcba
+bgecfda : 7
+ecdag : 5
+dgfcbe : 6
+bdgac : 5
+adbgf : 5
+afgdbe : 6
+bfac : 4
+gdcabf : 6
+cbd : 3
+bc : 2
+bc : 2
+acbgefd : 7
+fagcdb : 6
+fcba : 4
+Key : ba efacg cfbgde cfdbg bacgf bgfdea abf bcad cfbeadg bgcfad 
+Target :  bcdgef fdgaeb ab cagfe
+ba : 2
+efacg : 5
+cfbgde : 6
+cfdbg : 5
+bacgf : 5
+bgfdea : 6
+abf : 3
+bcad : 4
+cfbeadg : 7
+bgcfad : 6
+bcdgef : 6
+fdgaeb : 6
+ab : 2
+cagfe : 5
+Key : cbdaf bafdgc eacbd fd dcf fcabg bcdfeg bedgcfa dgfa agbecf 
+Target :  dfga bgfac df agdf
+cbdaf : 5
+bafdgc : 6
+eacbd : 5
+fd : 2
+dcf : 3
+fcabg : 5
+bcdfeg : 6
+bedgcfa : 7
+dgfa : 4
+agbecf : 6
+dfga : 4
+bgfac : 5
+df : 2
+agdf : 4
+Key : edcabf cadbf bgfdcea bgcfad bgcde dfg fg bdfgc cgadfe abfg 
+Target :  adfecg gfbcd acgdfeb cbgdaf
+edcabf : 6
+cadbf : 5
+bgfdcea : 7
+bgcfad : 6
+bgcde : 5
+dfg : 3
+fg : 2
+bdfgc : 5
+cgadfe : 6
+abfg : 4
+adfecg : 6
+gfbcd : 5
+acgdfeb : 7
+cbgdaf : 6
+Key : badgfc dg bagcde bceda dbcfea beafg debag adg fcbadeg edgc 
+Target :  gebda dcagbf dceba egfab
+badgfc : 6
+dg : 2
+bagcde : 6
+bceda : 5
+dbcfea : 6
+beafg : 5
+debag : 5
+adg : 3
+fcbadeg : 7
+edgc : 4
+gebda : 5
+dcagbf : 6
+dceba : 5
+egfab : 5
+Key : edcf dacfbg dbcefag fbd df bdegfc ebdagc bgfea begcd bfedg 
+Target :  dgebc cbgde dgfbac bdf
+edcf : 4
+dacfbg : 6
+dbcefag : 7
+fbd : 3
+df : 2
+bdegfc : 6
+ebdagc : 6
+bgfea : 5
+begcd : 5
+bfedg : 5
+dgebc : 5
+cbgde : 5
+dgfbac : 6
+bdf : 3
+Key : bdcfg acegfb acebfd fdcag egadcf da daf cgeaf edag bafcegd 
+Target :  gdcaf fgaec bafdec fdaecb
+bdcfg : 5
+acegfb : 6
+acebfd : 6
+fdcag : 5
+egadcf : 6
+da : 2
+daf : 3
+cgeaf : 5
+edag : 4
+bafcegd : 7
+gdcaf : 5
+fgaec : 5
+bafdec : 6
+fdaecb : 6
+Key : cagefd fde gdfba fcgaedb abefd ef dafbeg ebfg afcbgd ebdca 
+Target :  egdbfa bceda dfabg bdace
+cagefd : 6
+fde : 3
+gdfba : 5
+fcgaedb : 7
+abefd : 5
+ef : 2
+dafbeg : 6
+ebfg : 4
+afcbgd : 6
+ebdca : 5
+egdbfa : 6
+bceda : 5
+dfabg : 5
+bdace : 5
+Key : fcgb gcdae bg gfadeb cbfegd fcabed bdg gcdbe fdcbe adbefcg 
+Target :  dgb gfbdec befdc gfbc
+fcgb : 4
+gcdae : 5
+bg : 2
+gfadeb : 6
+cbfegd : 6
+fcabed : 6
+bdg : 3
+gcdbe : 5
+fdcbe : 5
+adbefcg : 7
+dgb : 3
+gfbdec : 6
+befdc : 5
+gfbc : 4
+Key : fabde bgfde bgecda cedgb gf cabfdeg ebfdgc fgbeac fcdg gfb 
+Target :  fgbde efdgb edgbc afedb
+fabde : 5
+bgfde : 5
+bgecda : 6
+cedgb : 5
+gf : 2
+cabfdeg : 7
+ebfdgc : 6
+fgbeac : 6
+fcdg : 4
+gfb : 3
+fgbde : 5
+efdgb : 5
+edgbc : 5
+afedb : 5
+Key : ebacf cedfab fde eabfd fd baecgf bagde agdebfc dfcb egfadc 
+Target :  ebfdgac acdegf abdefc ebfad
+ebacf : 5
+cedfab : 6
+fde : 3
+eabfd : 5
+fd : 2
+baecgf : 6
+bagde : 5
+agdebfc : 7
+dfcb : 4
+egfadc : 6
+ebfdgac : 7
+acdegf : 6
+abdefc : 6
+ebfad : 5
+Key : gdcb cd cfgae cgbedf fbegd efgdc fadcbe gfeacdb dce dfagbe 
+Target :  gbcd cde gacfe gefdbc
+gdcb : 4
+cd : 2
+cfgae : 5
+cgbedf : 6
+fbegd : 5
+efgdc : 5
+fadcbe : 6
+gfeacdb : 7
+dce : 3
+dfagbe : 6
+gbcd : 4
+cde : 3
+gacfe : 5
+gefdbc : 6
+Key : geb afedgb bfegca bgade eg dgef gadbc eafdb afebdcg fcbead 
+Target :  cagbd defcba dbafec geafcb
+geb : 3
+afedgb : 6
+bfegca : 6
+bgade : 5
+eg : 2
+dgef : 4
+gadbc : 5
+eafdb : 5
+afebdcg : 7
+fcbead : 6
+cagbd : 5
+defcba : 6
+dbafec : 6
+geafcb : 6
+Key : fgbdc gbfade gba gefa dbafg cbadge bfgecda ga edbafc dfabe 
+Target :  afbdeg dgfba bgdfa dcfgb
+fgbdc : 5
+gbfade : 6
+gba : 3
+gefa : 4
+dbafg : 5
+cbadge : 6
+bfgecda : 7
+ga : 2
+edbafc : 6
+dfabe : 5
+afbdeg : 6
+dgfba : 5
+bgdfa : 5
+dcfgb : 5
+Key : agef badce ef febad cabfdg gdfab cbgeafd egfbdc defgba fbe 
+Target :  abefd geaf gafdbe ebcad
+agef : 4
+badce : 5
+ef : 2
+febad : 5
+cabfdg : 6
+gdfab : 5
+cbgeafd : 7
+egfbdc : 6
+defgba : 6
+fbe : 3
+abefd : 5
+geaf : 4
+gafdbe : 6
+ebcad : 5
+Key : gd gad bfdg gecba fedabcg fcgeda aedfbc adebf agbdfe dgeab 
+Target :  ebcdaf agd gcfbdae egacb
+gd : 2
+gad : 3
+bfdg : 4
+gecba : 5
+fedabcg : 7
+fcgeda : 6
+aedfbc : 6
+adebf : 5
+agbdfe : 6
+dgeab : 5
+ebcdaf : 6
+agd : 3
+gcfbdae : 7
+egacb : 5
+Key : cedbfa ba cgbfa abf dfegac cafeg gabe befgca ebdfcag cbfdg 
+Target :  fab aegcf faecbd fdcebga
+cedbfa : 6
+ba : 2
+cgbfa : 5
+abf : 3
+dfegac : 6
+cafeg : 5
+gabe : 4
+befgca : 6
+ebdfcag : 7
+cbfdg : 5
+fab : 3
+aegcf : 5
+faecbd : 6
+fdcebga : 7
+Key : daefg febdga aegfdbc efgdca eafb bge eb agbdec febgd gbdfc 
+Target :  gbcfd edbfg egb bacegd
+daefg : 5
+febdga : 6
+aegfdbc : 7
+efgdca : 6
+eafb : 4
+bge : 3
+eb : 2
+agbdec : 6
+febgd : 5
+gbdfc : 5
+gbcfd : 5
+edbfg : 5
+egb : 3
+bacegd : 6
+Key : fbdecg bdafec cfaeb gedac def dceaf abfd fd gfecba gfdaecb 
+Target :  ebfac bdfa gbcdef fd
+fbdecg : 6
+bdafec : 6
+cfaeb : 5
+gedac : 5
+def : 3
+dceaf : 5
+abfd : 4
+fd : 2
+gfecba : 6
+gfdaecb : 7
+ebfac : 5
+bdfa : 4
+gbcdef : 6
+fd : 2
+Key : fcbga cbdfeag bafgce fdacg dc fcd fcgbad fadge efcdgb cdab 
+Target :  gaefcb bafegcd acdb abcgf
+fcbga : 5
+cbdfeag : 7
+bafgce : 6
+fdacg : 5
+dc : 2
+fcd : 3
+fcgbad : 6
+fadge : 5
+efcdgb : 6
+cdab : 4
+gaefcb : 6
+bafegcd : 7
+acdb : 4
+abcgf : 5
+Key : ecgabd acgdf abge ae bcfead fgdaceb ead daegc bcdefg gcbed 
+Target :  egba gaecd cgadbe gdbce
+ecgabd : 6
+acgdf : 5
+abge : 4
+ae : 2
+bcfead : 6
+fgdaceb : 7
+ead : 3
+daegc : 5
+bcdefg : 6
+gcbed : 5
+egba : 4
+gaecd : 5
+cgadbe : 6
+gdbce : 5
+Key : aegfbc gf afebdc agebdfc ebcdf feg dcefg bdfg dcgea bgedcf 
+Target :  edbfcg fdgb bdgafce febgcd
+aegfbc : 6
+gf : 2
+afebdc : 6
+agebdfc : 7
+ebcdf : 5
+feg : 3
+dcefg : 5
+bdfg : 4
+dcgea : 5
+bgedcf : 6
+edbfcg : 6
+fdgb : 4
+bdgafce : 7
+febgcd : 6
+Key : dcg bcdefa dbfceg fdeacg acbeg bfeagcd cfdae dg dfag agdec 
+Target :  dfcgea dg egdca edagc
+dcg : 3
+bcdefa : 6
+dbfceg : 6
+fdeacg : 6
+acbeg : 5
+bfeagcd : 7
+cfdae : 5
+dg : 2
+dfag : 4
+agdec : 5
+dfcgea : 6
+dg : 2
+egdca : 5
+edagc : 5
+Key : agcfeb fagbed fdbceg bag gebfd afgd agbfcde acbed ag badeg 
+Target :  cbdea fcedgb gfebac abcegf
+agcfeb : 6
+fagbed : 6
+fdbceg : 6
+bag : 3
+gebfd : 5
+afgd : 4
+agbfcde : 7
+acbed : 5
+ag : 2
+badeg : 5
+cbdea : 5
+fcedgb : 6
+gfebac : 6
+abcegf : 6
+Key : adbegfc fgdace cadge afcg ebdfca ebgad eac bfgdce cgefd ca 
+Target :  acged fcedg ebagd dgacefb
+adbegfc : 7
+fgdace : 6
+cadge : 5
+afcg : 4
+ebdfca : 6
+ebgad : 5
+eac : 3
+bfgdce : 6
+cgefd : 5
+ca : 2
+acged : 5
+fcedg : 5
+ebagd : 5
+dgacefb : 7
+Key : gfeadb gfeab bcfa agebcfd aebgfc fecgbd efc fc gadec egcfa 
+Target :  fgbace fc debgcf afgceb
+gfeadb : 6
+gfeab : 5
+bcfa : 4
+agebcfd : 7
+aebgfc : 6
+fecgbd : 6
+efc : 3
+fc : 2
+gadec : 5
+egcfa : 5
+fgbace : 6
+fc : 2
+debgcf : 6
+afgceb : 6
+Key : bacg ab cfgbd bfadge acfed fgdecb agedcbf fcabgd bfa dbafc 
+Target :  gfdcb cbga abcg afecbdg
+bacg : 4
+ab : 2
+cfgbd : 5
+bfadge : 6
+acfed : 5
+fgdecb : 6
+agedcbf : 7
+fcabgd : 6
+bfa : 3
+dbafc : 5
+gfdcb : 5
+cbga : 4
+abcg : 4
+afecbdg : 7
+Key : ge beagc cfgabd bgaced bgcda fbadgec age ecdagf egbd fcbae 
+Target :  aeg gedbac cadfeg fbgcda
+ge : 2
+beagc : 5
+cfgabd : 6
+bgaced : 6
+bgcda : 5
+fbadgec : 7
+age : 3
+ecdagf : 6
+egbd : 4
+fcbae : 5
+aeg : 3
+gedbac : 6
+cadfeg : 6
+fbgcda : 6
+Key : dgbafe abfdgec gdf fd agebcf gadec dfcgba befd edfga aebfg 
+Target :  abcgefd dagec dfg df
+dgbafe : 6
+abfdgec : 7
+gdf : 3
+fd : 2
+agebcf : 6
+gadec : 5
+dfcgba : 6
+befd : 4
+edfga : 5
+aebfg : 5
+abcgefd : 7
+dagec : 5
+dfg : 3
+df : 2
+Key : edfcga bcegd baeg cbgdae agdbc gce acgdebf eg gfadbc cefbd 
+Target :  dcbeg bgedc cedbg edcbg
+edfcga : 6
+bcegd : 5
+baeg : 4
+cbgdae : 6
+agdbc : 5
+gce : 3
+acgdebf : 7
+eg : 2
+gfadbc : 6
+cefbd : 5
+dcbeg : 5
+bgedc : 5
+cedbg : 5
+edcbg : 5
+Key : adfbe dg cagef dfgb gdbeca aefdg gda edcbaf fdgeba gdecbfa 
+Target :  cdabef eafbd bafcegd dg
+adfbe : 5
+dg : 2
+cagef : 5
+dfgb : 4
+gdbeca : 6
+aefdg : 5
+gda : 3
+edcbaf : 6
+fdgeba : 6
+gdecbfa : 7
+cdabef : 6
+eafbd : 5
+bafcegd : 7
+dg : 2
+Key : cd edcbfg dbage fcaebdg facd bgcfea afbedc afbec dbc adecb 
+Target :  adegb bcefag abegd cbgedf
+cd : 2
+edcbfg : 6
+dbage : 5
+fcaebdg : 7
+facd : 4
+bgcfea : 6
+afbedc : 6
+afbec : 5
+dbc : 3
+adecb : 5
+adegb : 5
+bcefag : 6
+abegd : 5
+cbgedf : 6
+Key : gdcbf da ecgbfda adc adgb bagcfd dfbcea egfac dfbceg gdacf 
+Target :  gdba cfdbg adbfec fcaeg
+gdcbf : 5
+da : 2
+ecgbfda : 7
+adc : 3
+adgb : 4
+bagcfd : 6
+dfbcea : 6
+egfac : 5
+dfbceg : 6
+gdacf : 5
+gdba : 4
+cfdbg : 5
+adbfec : 6
+fcaeg : 5
+Key : bcg bc gdcbae dbca abfgde gdeba ebfacdg egcba faceg dgfbce 
+Target :  geadb badecg ecbfgd baecg
+bcg : 3
+bc : 2
+gdcbae : 6
+dbca : 4
+abfgde : 6
+gdeba : 5
+ebfacdg : 7
+egcba : 5
+faceg : 5
+dgfbce : 6
+geadb : 5
+badecg : 6
+ecbfgd : 6
+baecg : 5
