@@ -115,3 +115,5 @@ content of the message body will not be received if a response is queued in the 
 void** con_cls -> 
 
 to differentiate the first call from the rest -> check if con_cls was NULL and set it to non-NULL during 1st call.
+
+gcc -o hello_browser.o hello_browser.c `pkg-config --cflags --libs libmicrohttpd`

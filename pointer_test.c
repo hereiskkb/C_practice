@@ -15,6 +15,8 @@ static uint64_t hash_key(const void* key) {
 }
 
 int main(int argc, char const *argv[argc]) {
-	printf("%lu\n", hash_key(argv[1]));
+	// printf("%lu\n", hash_key(argv[1]));
+
+    fprintf(stderr, "%s\n", "system out of memory\n");
 	return 0;
 }
